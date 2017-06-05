@@ -1,0 +1,27 @@
+{
+  "name": "tristan-huber.github.io",
+  "version": "1.0.0",
+  "description": "public page project",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristan-huber/tristan-huber.github.io.git"
+  },
+  "author": "Tristan Huber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristan-huber/tristan-huber.github.io/issues"
+  },
+  "homepage": "https://github.com/tristan-huber/tristan-huber.github.io#readme"
+}
