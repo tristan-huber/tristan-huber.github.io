@@ -2,7 +2,11 @@ import "../style.less";
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
+import * as travel from "./data/travel.json";
+
 import * as Bootstrap from "../node_modules/react-bootstrap";
+
+console.log(travel.title)
 
 ReactDOM.render(
   <Bootstrap.Navbar>
