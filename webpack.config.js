@@ -1,12 +1,15 @@
+var path = require("path");
+
 module.exports = {
 	entry: "./src/index.tsx",
 	output: {
-		path: __dirname + "/dist",
+		path: path.resolve(__dirname, "dist"),
 		filename: "bundle.js"
 	},
-
 	devtool: "source-map",
-
+	devServer: {
+		publicPath: "/dist"
+	},
 	resolve: {
 		extensions: [".ts", ".tsx", ".js", ".json"]
 	},
@@ -38,4 +41,5 @@ module.exports = {
 		"react": "React",
 		"react-dom": "ReactDOM"
 	}
+
 };

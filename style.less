@@ -1,3 +1,24 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
+
+@serenity: #91a8d0;
+@rose-quartz: #f7cac9;
+
 body {
-	background: purple;
+	background: @serenity;
+}
+
+.content-box {
+	background: @rose-quartz;
+	border-color: darken(@rose-quartz, 3%);
+	border: 1px solid transparent;
+}
+
+.navbar {
+	.content-box();
+}
+
+.content-wrapper {
+	.content-box();
+	border-radius: 4px;
+	overflow: hidden;
 }
