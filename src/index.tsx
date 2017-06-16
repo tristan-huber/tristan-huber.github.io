@@ -24,12 +24,11 @@ const TravelPage = React.createClass({
   }
 });
 
-
 function TravelEntry(props: TravelData) {
     var images = props.images.map((imageDetails) => {
       var image = imageDetails.rotate ?
-                      <img src={imageDetails.path} className={`rotate${imageDetails.rotate}`} /> :
-                      <img src={imageDetails.path} />;
+                      <img src={imageDetails.path} width={1200} className={`rotate${imageDetails.rotate}`} /> :
+                      <img src={imageDetails.path} width={1200} />;
       return <Bootstrap.Carousel.Item>
         {image}
         <Bootstrap.Carousel.Caption>
@@ -114,7 +113,7 @@ const Navigation = React.createClass({
 
   render() {
     return (
-      <Bootstrap.Navbar>
+      <Bootstrap.Navbar inverse>
         <Bootstrap.Navbar.Header onClick={this.goHome}>
           <Bootstrap.Navbar.Brand><a href="#">Tristan</a></Bootstrap.Navbar.Brand>
         </Bootstrap.Navbar.Header>

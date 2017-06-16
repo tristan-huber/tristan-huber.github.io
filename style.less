@@ -7,24 +7,28 @@
 @normal-margin: @margin;
 @thin-margin: 5px;
 
+@dark-grey-background: #343435;
+
 body {
 	background: @serenity;
 }
 
 .rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg) scale(0.6667);
+    -moz-transform: rotate(90deg) scale(0.6667);
+    -o-transform: rotate(90deg) scale(0.6667);
+    -ms-transform: rotate(90deg) scale(0.6667);
+    transform: rotate(90deg) scale(0.6667);
+		transform-origin: 50%;
 }
 
 .rotate270 {
-    -webkit-transform: rotate(270deg);
-    -moz-transform: rotate(270deg);
-    -o-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    transform: rotate(270deg);
+    -webkit-transform: rotate(270deg) scale(0.6667);
+    -moz-transform: rotate(270deg) scale(0.6667);
+    -o-transform: rotate(270deg) scale(0.6667);
+    -ms-transform: rotate(270deg)  scale(0.6667);
+    transform: rotate(270deg) scale(0.6667);
+		transform-origin: 50%;
 }
 
 .rotate180 {
@@ -33,12 +37,13 @@ body {
     -o-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
+		transform-origin: 50%;
 }
 
 .travel-entry {
 	border-radius: 5px;
 	box-shadow: 2px 1px 1px #ddd;
-	background-color: #f1f1f1;
+	background-color: #d9e6f7;
 	margin-bottom: 50px;
 	overflow: hidden;
 
@@ -53,26 +58,17 @@ body {
 	}
 
 
-
 	.carousel {
-		.active .item {
-			background-color: #343435;
+		.active.item {
+			background-color: @dark-grey-background;
 		}
 	}
 }
 
-.content-box {
-	background: @rose-quartz;
-	border-color: darken(@rose-quartz, 3%);
-	border: 1px solid transparent;
-}
-
 .navbar {
-	.content-box();
-}
-
-.content-wrapper {
-	.content-box();
-	border-radius: 4px;
-	overflow: hidden;
+	background: @dark-grey-background;
+	border-color: darken(@dark-grey-background, 3%);
+	border: 1px solid transparent;
+	box-shadow: 0px 1px 1px @dark-grey-background;
+	border-radius: 0px;
 }
