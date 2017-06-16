@@ -17,7 +17,16 @@ const travel: [TravelData] = travelRaw;
 // Controls for the travel page
 const TravelPage = React.createClass({
   render() {
-    var images = travel[0].images.map((imageDetails) => {
+    var entries = travel.map((travelEntryData) => {
+      return TravelEntry(travelEntryData);
+    });
+    return <div>{entries}</div>
+  }
+});
+
+
+function TravelEntry(props: TravelData) {
+    var images = props.images.map((imageDetails) => {
       return <Bootstrap.Carousel.Item>
         <Bootstrap.Image src={imageDetails.path} responsive/>
         <Bootstrap.Carousel.Caption>
@@ -27,7 +36,7 @@ const TravelPage = React.createClass({
       </Bootstrap.Carousel.Item>
     });
 
-    var contents = travel[0].content.map((contentEntry) => {
+    var contents = props.content.map((contentEntry) => {
       var optionalTitle = contentEntry.subtitle ? <h3 className="content-subtitle">{contentEntry.subtitle}</h3> : null;
       return <div className="content-subsection">
         {optionalTitle}
@@ -45,7 +54,7 @@ const TravelPage = React.createClass({
 
         <Bootstrap.Row className="title">
           <Bootstrap.Col xs={10} xsOffset={0}>
-          <Bootstrap.PageHeader> {travel[0].title} </Bootstrap.PageHeader>
+          <Bootstrap.PageHeader> {props.title} </Bootstrap.PageHeader>
           </Bootstrap.Col>
         </Bootstrap.Row>
 
@@ -55,7 +64,6 @@ const TravelPage = React.createClass({
       </Bootstrap.Grid>
     );
   }
-});
 
 const ProjectPage = React.createClass({
   render() {

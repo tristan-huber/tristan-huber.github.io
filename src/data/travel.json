@@ -1,18 +1,33 @@
 [
 
-{
-	"title": "fooasdf",
-	"date": "2017-06-15",
-	"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
-						 {"path": "./images/IMG_4725.JPG", "title": "title two", "subtitle": "subtitle two"}],
-	"content": [
-		{
-			"body": "this is a test for the first paragraph"
-		},
-		{
-			"subtitle": "Subsection one!",
-			"body": "here's some more body content. this is a test for really long lines, let's see if they wrap correctly shall we? I wonder where the line break is or if this will overflow the central column yadda yadda yadda. this line wasn't long enough the first time but it should now be"
-		}
-	]
-}
+	{
+		"title": "fooasdf",
+		"date": "2017-06-15",
+		"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
+							 {"path": "./images/IMG_4725.JPG", "title": "title two", "subtitle": "subtitle two"}],
+		"content": [
+			{
+				"body": "this is a test for the first paragraph"
+			},
+			{
+				"subtitle": "Subsection one!",
+				"body": "here's some more body content. this is a test for really long lines, let's see if they wrap correctly shall we? I wonder where the line break is or if this will overflow the central column yadda yadda yadda. this line wasn't long enough the first time but it should now be"
+			}
+		]
+	},
+	{
+		"title": "entry two",
+		"date": "2017-06-15",
+		"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
+							 {"path": "./images/IMG_4725.JPG", "title": "title two", "subtitle": "subtitle two"}],
+		"content": [
+			{
+				"body": "this is a test for the first paragraph"
+			},
+			{
+				"subtitle": "Subsection one!",
+				"body": "here's some more body content. this is a test for really long lines, let's see if they wrap correctly shall we? I wonder where the line break is or if this will overflow the central column yadda yadda yadda. this line wasn't long enough the first time but it should now be"
+			}
+		]
+	}
 ]
