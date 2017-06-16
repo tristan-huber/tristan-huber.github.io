@@ -1,17 +1,29 @@
 [
 
 	{
-		"title": "fooasdf",
-		"date": "2017-06-15",
-		"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
-							 {"path": "./images/IMG_4725.JPG", "title": "title two", "subtitle": "subtitle two"}],
+		"title": "Mexico",
+		"date": "January 2017",
+		"images": [
+			{ "path": "./images/cover.jpg", "title": "Sayulita, Mexico"},
+			{ "path": "./images/riley_at_the_beach.jpg", "title": "Riley at the Beach", "subtitle": "visiting the beach by the house for sunset"},
+			{ "path": "./images/meal.jpg", "title": "Our First Meal",
+			  "subtitle": "our chef made the most beautiful (and tasty) food I've eaten"},
+			{ "path": "images/sayulita.jpg", "title": "Downtown Sayulita", "subtitle": "Day of the Dead flags were still up in January", "rotate": 270},
+			{ "path": "images/surfing_before.jpg", "title": "Surfing Game Face", "subtitle": "rented a n00b board for super cheap from one of the many suft shacks on the beach"},
+			{ "path": "images/surfing_after.jpg", "title": "Surfing Success", "subtitle": "definitely had to buy a rash guard before my next surfing session"},
+			{ "path": "images/pool_party.jpg", "title": "Pool Party", "subtitle": "celebrating our last night back at the big house"}
+		],
 		"content": [
 			{
-				"body": "this is a test for the first paragraph"
+				"body": "We went to Mexico! Riley and I joined a bunch of her UW alum friends for a long weekend in Puerto Vallarta Mexico. There were a dozen of us in total, and we rented out one big house on the beach to stay in. Originally the plan was to spend most of our days in Puarto Vallarta. But Riley and I happened upon Sayulita on our first day and ended up going back every day thereafter."
 			},
 			{
-				"subtitle": "Subsection one!",
-				"body": "here's some more body content. this is a test for really long lines, let's see if they wrap correctly shall we? I wonder where the line break is or if this will overflow the central column yadda yadda yadda. this line wasn't long enough the first time but it should now be"
+				"subtitle": "Sayulita",
+				"body": "Sayulita is just the cutest little beach town. Our first couple days there were spent surfing, laying in the sun, and eating tacos. But, on our final day we convinced our whole group to come out to the town. As a group we explored the tourist market. We were lucky enough to find a really kind lady in the market who was selling blankets and, as a group, bought some twenty blankets from her. We were thrilled with the blankets (mine is red!) and she was happy for the business. Afterward, we rented snorkels and found a rocky part of the beach. Unfortunately, the visibility was poor, and the most interesting areas were almost in the surf. This was my first time snorkeling and, turns out, breathing under water is kinda freaky. That, plus the mediocre visibility, and the abundant, often surprising, rocks was enough to make the experience more psychological trail than pleasant vacation activity. Afterward I was adamant that I'd never go again, but, my views have softened in the months since, and perhaps under calmer conditions I'll try snorkeling once again."
+			},
+			{
+				"subtitle": "The house",
+				"body": "There were twelve of us, spread throughout this huge 6 bedroom house we'd rented. It had a pool, a cute little path to a private beach, kayaks in the garage that we could use, and air conditioning! Plus, we hired a chef to come to the house and make our evening meals. Needless to say, we were vacationing in style. The big house made a great home-base. The first night we were all pretty pooped and crashed early after a taco dinner. But Saturday evening, after a resplendent meal, we took advantage of our space by playing 'Two Rooms and a Boom' which is a large-group game where teams are split into two different rooms, and through conniving and cleverness try to sabatoge the other team. We played half a dozen rounds, and finaly, during the last round my team won! We stumbled to victory by utterly failing to communicate or strategize. We could have easily controlled our room in the first round but we didn't realize we had a majority, and, essentially through luck, won in the final exchange. Our final evening at the house was a bit quieter, we spent our last sunset playing in the pool and enjoying coconut drinks."
 			}
 		]
 	},
