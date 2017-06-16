@@ -1,3 +1,13 @@
 {
-	"title": "fooasdf"
+	"title": "fooasdf",
+	"date": "2017-06-15",
+	"content": [
+		{
+			"body": "this is a test for the first paragraph"
+		},
+		{
+			"title": "Subsection one!",
+			"body": "here's some more body content"
+		}
+	]
 }
