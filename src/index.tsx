@@ -1,25 +1,56 @@
 import "../style.less";
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-
-import * as travel from "./data/travel.json";
-
+import * as travelRaw from "./data/travel.json";
 import * as hello from "./components/Hello";
-
 import * as Bootstrap from "../node_modules/react-bootstrap";
 
-console.log(travel.title)
-console.log("asdf")
+interface TravelData {
+  title: string,
+  date: string,
+  content: [ {subtitle: string, body: string} ]
+  images: [ {path: string, title: string, subtitle: string} ]
+}
 
+const travel: [TravelData] = travelRaw;
+
+// Controls for the travel page
 const TravelPage = React.createClass({
   render() {
+    var images = travel[0].images.map((imageDetails) => {
+      return <Bootstrap.Carousel.Item>
+        <Bootstrap.Image src={imageDetails.path} responsive/>
+        <Bootstrap.Carousel.Caption>
+          <h3>{imageDetails.title}</h3>
+          <p>{imageDetails.subtitle}</p>
+        </Bootstrap.Carousel.Caption>
+      </Bootstrap.Carousel.Item>
+    });
+
+    var contents = travel[0].content.map((contentEntry) => {
+      var optionalTitle = contentEntry.subtitle ? <h3 className="content-subtitle">{contentEntry.subtitle}</h3> : null;
+      return <div className="content-subsection">
+        {optionalTitle}
+        <p>{contentEntry.body}</p>
+        </div>
+    })
+
     return (
-      <Bootstrap.Grid>
-        <Bootstrap.Row className="content-wrapper">
+      <Bootstrap.Grid className="travel-entry">
+        <Bootstrap.Row className="images">
+          <Bootstrap.Carousel interval={0}>
+            {images}
+          </Bootstrap.Carousel>
+        </Bootstrap.Row>
+
+        <Bootstrap.Row className="title">
           <Bootstrap.Col xs={10} xsOffset={0}>
-          Travel Page
-          <Bootstrap.Button bsStyle="success" bsSize="small">Bar</Bootstrap.Button>
+          <Bootstrap.PageHeader> {travel[0].title} </Bootstrap.PageHeader>
           </Bootstrap.Col>
+        </Bootstrap.Row>
+
+        <Bootstrap.Row className="content">
+          {contents}
         </Bootstrap.Row>
       </Bootstrap.Grid>
     );

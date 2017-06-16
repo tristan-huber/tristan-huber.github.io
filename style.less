@@ -1,10 +1,32 @@
 @import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
 
-@serenity: #f1f1f1;
+@serenity: white;
 @rose-quartz: #f7cac9;
+@wide-margin: 20px;
+@margin: 10px;
+@normal-margin: @margin;
+@thin-margin: 5px;
 
 body {
 	background: @serenity;
+}
+
+.travel-entry {
+	border-radius: 5px;
+	box-shadow: 2px 1px 1px #ddd;
+	background-color: #f1f1f1;
+	margin-bottom: @wide-margin;
+	overflow: hidden;
+
+	.content-subsection {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.images {
+		// kludge to make sure images don't overflow the travel section border radius
+		-webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);
+	}
 }
 
 .content-box {
