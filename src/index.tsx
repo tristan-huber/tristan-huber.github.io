@@ -9,7 +9,7 @@ interface TravelData {
   title: string,
   date: string,
   content: [ {subtitle: string, body: string} ]
-  images: [ {path: string, title: string, subtitle: string} ]
+  images: [ {path: string, title: string, subtitle: string, rotate: number} ]
 }
 
 const travel: [TravelData] = travelRaw;
@@ -27,8 +27,11 @@ const TravelPage = React.createClass({
 
 function TravelEntry(props: TravelData) {
     var images = props.images.map((imageDetails) => {
+      var image = imageDetails.rotate ?
+                      <img src={imageDetails.path} className={`rotate${imageDetails.rotate}`} /> :
+                      <img src={imageDetails.path} />;
       return <Bootstrap.Carousel.Item>
-        <Bootstrap.Image src={imageDetails.path} responsive/>
+        {image}
         <Bootstrap.Carousel.Caption>
           <h3>{imageDetails.title}</h3>
           <p>{imageDetails.subtitle}</p>

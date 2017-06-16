@@ -19,7 +19,7 @@
 		"title": "entry two",
 		"date": "2017-06-15",
 		"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
-							 {"path": "./images/IMG_4725.JPG", "title": "title two", "subtitle": "subtitle two"}],
+							 {"path": "./images/IMG_4727.JPG", "title": "title two", "subtitle": "subtitle two", "rotate": 270}],
 		"content": [
 			{
 				"body": "this is a test for the first paragraph"
