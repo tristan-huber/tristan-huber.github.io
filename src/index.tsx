@@ -91,7 +91,7 @@ function navigate(key: String) {
   } else if (key === "project") {
     targetPage = <ProjectPage />;
   } else {
-    targetPage = <HomePage />;
+    targetPage = <TravelPage />;
   }
   ReactDOM.render(
     targetPage,
@@ -134,6 +134,6 @@ ReactDOM.render(
 
 // Initially render to the home page
 ReactDOM.render(
-  <HomePage />,
+  <TravelPage />,
   document.getElementById("content")
 );
