@@ -7,8 +7,8 @@
 			{ "path": "./images/cover.jpg", "title": "Sayulita, Mexico"},
 			{ "path": "./images/riley_at_the_beach.jpg", "title": "Riley at the Beach", "subtitle": "visiting the beach by the house for sunset"},
 			{ "path": "./images/meal.jpg", "title": "Our First Meal",
-			  "subtitle": "our chef made the most beautiful (and tasty) food I've eaten"},
-			{ "path": "images/sayulita.jpg", "title": "Downtown Sayulita", "subtitle": "Day of the Dead flags were still up in January", "rotate": 270},
+			  "subtitle": "our chef made the most beautiful (and tasty) food"},
+			{ "path": "images/sayulita.jpg", "title": "Downtown Sayulita", "subtitle": "Day of the Dead flags were still up", "rotate": 270},
 			{ "path": "images/surfing_before.jpg", "title": "Surfing Game Face", "subtitle": "rented a n00b board for super cheap from one of the many suft shacks on the beach"},
 			{ "path": "images/surfing_after.jpg", "title": "Surfing Success", "subtitle": "definitely had to buy a rash guard before my next surfing session"},
 			{ "path": "images/pool_party.jpg", "title": "Pool Party", "subtitle": "celebrating our last night back at the big house"}
@@ -19,7 +19,7 @@
 			},
 			{
 				"subtitle": "Sayulita",
-				"body": "Sayulita is just the cutest little beach town. Our first couple days there were spent surfing, laying in the sun, and eating tacos. But, on our final day we convinced our whole group to come out to the town. As a group we explored the tourist market. We were lucky enough to find a really kind lady in the market who was selling blankets and, as a group, bought some twenty blankets from her. We were thrilled with the blankets (mine is red!) and she was happy for the business. Afterward, we rented snorkels and found a rocky part of the beach. Unfortunately, the visibility was poor, and the most interesting areas were almost in the surf. This was my first time snorkeling and, turns out, breathing under water is kinda freaky. That, plus the mediocre visibility, and the abundant, often surprising, rocks was enough to make the experience more psychological trail than pleasant vacation activity. Afterward I was adamant that I'd never go again, but, my views have softened in the months since, and perhaps under calmer conditions I'll try snorkeling once again."
+				"body": "Sayulita is just the cutest little beach town. Our first couple days there were spent surfing, laying in the sun, and eating tacos. But, on our final day we convinced our whole group to come out to the town. As a group we explored the tourist market. We were lucky enough to find a really kind lady in the market who was selling blankets and, between us, bought some twenty blankets from her. We were thrilled with the blankets (mine is red!) and she was happy for the business. Afterward, we rented snorkels and found a rocky part of the beach. Unfortunately, the visibility was poor, and the most interesting areas were almost in the surf. This was my first time snorkeling and, turns out, breathing under water is kinda freaky. That, plus the mediocre visibility, and the abundant, often surprising, rocks was enough to make the experience more psychological trail than pleasant vacation activity. Afterward I was adamant that I'd never go again, but, my views have softened in the months since, and perhaps under calmer conditions I'll try snorkeling once again."
 			},
 			{
 				"subtitle": "The house",
@@ -28,18 +28,114 @@
 		]
 	},
 	{
-		"title": "entry two",
-		"date": "2017-06-15",
-		"images": [{"path": "./images/IMG_4723.JPG", "title": "woa title", "subtitle": "subtitle one"},
-							 {"path": "./images/IMG_4727.JPG", "title": "title two", "subtitle": "subtitle two", "rotate": 270}],
+		"title": "Dubai",
+		"date": "December 2016",
+		"images": [{"path": "./images/dubai_cover.jpg", "title": "Dubai, UAE", "rotate": 270},
+							 {"path": "./images/dubai_fountains.jpg", "title": "Dubai Fountain Show",
+								 "subtitle": "Hani and Riley watching the fountains under the Burj Khalifa", "rotate": 270},
+							 {"path": "./images/dubai_marina.jpg","title": "Marina", "subtitle": "the marina in the morning light, on our way to the airport"}
+							],
 		"content": [
 			{
-				"body": "this is a test for the first paragraph"
+				"body": "On our way to Ethiopia, we had a 14 hour nighttime layover in Dubai. We stashed our bags and escaped the airport to visit with Hani and sleep on his couch (thanks Hani!). We got in just before dinner and met Hani at the airport. He took us out for a traditional Arabian meal, which was great practice at utinsil-free eating before Ethiopia. We had delicious marinated lamb served over rice. After that, it was a ferry across the marina to see the old-town and gold district. Finally, our evening culminated in a visit to Dubai Mall, the Burj Khalifa, and the Dubai Fountains."
 			},
 			{
-				"subtitle": "Subsection one!",
-				"body": "here's some more body content. this is a test for really long lines, let's see if they wrap correctly shall we? I wonder where the line break is or if this will overflow the central column yadda yadda yadda. this line wasn't long enough the first time but it should now be"
+				"body": "The next morning we woke early and took the subway back to the airport for our flight to Ethiopia"
 			}
+		]
+	},
+	{
+		"title": "Addis, Ethiopia",
+		"date": "December 22, 2016",
+		"images": [
+			{ "path": "./images/ethiopia/johannah.jpg", "title": "Johannah"},
+			{ "path": "./images/ethiopia/entoto_one.jpg", "title": "Mt. Entoto",
+				"subtitle": "A prairie near the summit of Mt. Entoto, just outside of Addis"},
+			{ "path": "./images/ethiopia/entoto_two.jpg", "title": "Woman Working", "subtitle": "there's a cadre of women and children who collect firewood on the mountain and carry it down to a market for sale"},
+			{ "path": "./images/ethiopia/apartment_view.jpg", "title": "View from our Addis Apartment",
+				"rotate": 270, "subtitle": "partially built and abandonned buildings like this one are fairly common in Addis"}
+		],
+		"content": [
+			{
+				"subtitle": "Arrival",
+				"body": "We arrived in Addis in the early afternoon. Johannah came to pick us up at the airport to our great releif. Unfortunately, we didn't take very many photos during our first few days in Addis, in part because we were distracted aclimating to the new place and culture."
+			},
+			{
+				"body": "Our first night Johannah took us across town to meet some other Peace Corps volunteers who were back in the capitol for the holidays. We took our first 'line taxi' to get there. And let's take a brief asside here to explain line taxi's. These are little vans, almost all Toyotas, which drive a specific route. Unlike busses they aren't public service and have no particular schedule. Each van has two oporators, one is the driver, the other is the caller, who's responsible for identifying people to pick up, collecting fares, and telling the driver when to make a stop. So, we walked down the block from our apartment to the nearest thoroughfare. This was a particularly busy route so there was already a clump of people waiting for the taxi. Presently one pulled up. There were some folks already in the taxi and probably another 5 or 6 people waiting with us, but we all shuffled in anyhow. As mentioned, these vans are small. But the inside is cleverly configured to fit as many people as possible. A few days later I had the wherewithall to count, and we figured that a typical van would fit 17 passengers when full. Though Johannah pointed out that overfilling beyond that is common during rush hour. But back to our first night, once aboard the van the driver sets off and the caller turned around to collect fairs, Johannah handled this for us that first time. Cost is typically 1.5 Birr (at the time conversion was 22 birr / 1 usd). We paid foreigner prices usually, but that still rarely exceeded 3 birr (translation note: Riley and I eventually learned all the numbers up to twenty or so, but the one we learned best was 'sost' meaning 3, because we'd frequently have to specify that there were three of us when paying for taxis). Presently, Johanna called for a stop, the van dove through traffic to the curb where we were deposited."
+			},
+			{
+				"body": "At long last we'd made it to the old foreigner neighborhood, the typical haunt for expats and visitors. We met up with Johannah's Peace Corps friends at the Black Rose, a darkly lit western bar just off the main road. It was here that Riley and I found our first comforting familiarities of home, for the menu included Heinikens and screwdrivers."
+			},
+			{
+				"body": "I was surprised to learn that Johannah's assignment for Peace Corps was somewhat unusual. She's based in a small town of about 500 people, located outside of Metu. This very rural and her role is part english teacher, part sustainable farmer, and part community member. In many ways her most significant responsibility is to embody America and foreigners generally for this community. By contrast most of the other volunteers are based in larger cities. Several were in Addis itself, others in Jimma and Adama. As well as a different setting these locations also usually had a more singular assignment focus, often operating as a volunteer at an existing school or organization."
+			},
+			{
+				"subtitle": "Day Two",
+				"body": "Our second day was mostly rest, we walked to a couple nearby markets, and had our first 'bunna de jebena' traditional Ethiopian coffee (translation note: bunna means coffee, jebena is the Ethiopian kettle used to make coffee). This we got from a street-side stand, as is customary. The stand we went to was operated by a young woman. There was a tarp overhead to give us shade, and we pulled up little stools around one of the short tables. She put a fresh jebena on the stove. After a span the coffee was ready and she came over to pour us each our first cups. Each cup is quite small, probably about 3 oz. The coffee is extremely strong, but there's a cup of sugar. Johannah asked for no sugar, but I took the default option, which turned out to be three spoonfulls of sugar per glass. After finishing our first glass, we were poured a second, then a third. Three glasses is expected when getting bunna, and most pricing is for a three-glass sitting."
+			},
+			{
+				"body": "Later during our second day we went to the Red Terror Museum, a few blocks from our apartment. The Red Terror was violent political conflict in Ethiopia starting in 1977 and continuing for two years which lead to the death of an estimated 500,000 persons. It closely followed the deposition of Haile Selassie. I won't further summarize those events here because there are much more complete and accurate narratives to be found elsewhere. Suffice it to say that the Museum presented the sense of fear during that conflict, along with stories of individual tragedy which were entirely moving. If you should so happen to be in Addis, I highly recommend visiting this Museum."
+			},
+			{
+				"subtitle": "Mt. Entoto",
+				"body": "Day three, and we wake up early to travel up to Mt. Entoto. The mountain is fairly close to the city but getting there still proves tricky. In the end we take a tram to a public bus terminal, from there we bus up to Shiromeda, a market halfway up Entoto, then finally catch a line taxi up to the mountain park proper. The park is huge, and we didn't actually make it to the summit. Instead we speant our time reclining in a prairie and catching up with Johannah."
+			}
+		]
+	},
+	{
+		"title": "Awassa, Ethiopia",
+		"date": "December 25, 2016",
+		"images": [
+			{ "path": "./images/ethiopia/awasa_fish.jpg", "title": "Fish at the Beach",
+				"subtitle": "Awassa is a lake town, known for it's fish in landlocked Ethiopia"},
+			{ "path": "./images/ethiopia/awasa_monkey.jpg", "title": "Monkey Feeding",
+				"subtitle": "Amora Gedel Park has monkeys!", "rotate": 270 },
+			{ "path": "./images/ethiopia/awasa_monkey_group.jpg", "title": "Monkey Park",
+				"subtitle": "Most of these kids spend all day in the park selling peanuts to tourists like us to give to the monkeys" },
+			{ "path": "./images/ethiopia/awasa_group_photo.jpg", "title": "",
+				"subtitle": "At the other side of Amora Gedel Park, taken by Shiru"},
+			{ "path": "./images/ethiopia/awasa_market_seller.jpg", "title": "Awassa Market",
+				"subtitle": "A spice seller at the Awassa market (we asked and she kindly let us take her photo)"},
+			{ "path": "./images/ethiopia/awasa_market_kids.jpg", "title": "Kids at the Market",
+				"subtitle": "these kids were really excited about striking a pose for the camera"}
+		],
+		"content": [
+			{
+				"subtitle": "Arrival to Awassa",
+				"body": "TODO: finish writing this section"
+			}
+		]
+	},
+	{
+		"title": "Abijata National Park, Ethiopia",
+		"date": "December 27, 2016",
+		"images": [
+			{ "path": "./images/ethiopia/abijata_cows.jpg", "title": "Abijata Lake",
+				"subtitle": "A herd of cows and their owner in front of Abijata Lake" },
+			{ "path": "./images/ethiopia/abijata_jeep.jpg", "title": "Abijata National Park",
+				"subtitle": "Johannah and Riley looking like a couple of badasses by the jeep" },
+			{ "path": "./images/ethiopia/abijata_hotspring.jpg", "title": "Hotsprings",
+				"subtitle": "We happened to meet a guide who led us to the hotsprings at Abijata" },
+			{ "path": "./images/ethiopia/abijata_kid.jpg", "title": "",
+				"subtitle": "A happy kid who followed us around while we explored the park",
+				"rotate": 270}
+		],
+		"content": [
+			{
+				"body": "TODO: fill in this section"
+			}
+		]
+	},
+	{
+		"title": "The Last Days, Ethiopia",
+		"date": "December 28, 2016",
+		"images": [
+			{ "path": "./images/ethiopia/awasa_dusk.jpg", "title": "Awassa at Sunset" },
+			{ "path": "./images/ethiopia/awasa_dusk_beer_two.jpg", "title": "Cheers, Ethiopia", "rotate": 270}
+		],
+		"content": [
+			{ "body": "Our final day in Awassa was a restive one, we watched dusk at Shiro's restaurant before an early bedtime." },
+			{ "body": "The next morning we woke early to catch the 6am bus back to Addis. That got us back by about noon. We used the afternoon to nap and pick up gifts we wanted to bring back to the states for friends. The next day was a slow morning, before we said goodbye to Johannah and caught our afternoon flight headed back to Seattle."}
 		]
 	}
 ]
