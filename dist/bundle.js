@@ -8154,37 +8154,37 @@ module.exports = [
 		"date": "January 2017",
 		"images": [
 			{
-				"path": "./images/cover.jpg",
+				"path": "./images/cover.JPG",
 				"title": "Sayulita, Mexico"
 			},
 			{
-				"path": "./images/riley_at_the_beach.jpg",
+				"path": "./images/riley_at_the_beach.JPG",
 				"title": "Riley at the Beach",
 				"subtitle": "visiting the beach by the house for sunset"
 			},
 			{
-				"path": "./images/meal.jpg",
+				"path": "./images/meal.JPG",
 				"title": "Our First Meal",
 				"subtitle": "our chef made the most beautiful (and tasty) food"
 			},
 			{
-				"path": "images/sayulita.jpg",
+				"path": "images/sayulita.JPG",
 				"title": "Downtown Sayulita",
 				"subtitle": "Day of the Dead flags were still up",
 				"rotate": 270
 			},
 			{
-				"path": "images/surfing_before.jpg",
+				"path": "images/surfing_before.JPG",
 				"title": "Surfing Game Face",
 				"subtitle": "rented a n00b board for super cheap from one of the many suft shacks on the beach"
 			},
 			{
-				"path": "images/surfing_after.jpg",
+				"path": "images/surfing_after.JPG",
 				"title": "Surfing Success",
 				"subtitle": "definitely had to buy a rash guard before my next surfing session"
 			},
 			{
-				"path": "images/pool_party.jpg",
+				"path": "images/pool_party.JPG",
 				"title": "Pool Party",
 				"subtitle": "celebrating our last night back at the big house"
 			}
@@ -8208,18 +8208,18 @@ module.exports = [
 		"date": "December 2016",
 		"images": [
 			{
-				"path": "./images/dubai_cover.jpg",
+				"path": "./images/dubai_cover.JPG",
 				"title": "Dubai, UAE",
 				"rotate": 270
 			},
 			{
-				"path": "./images/dubai_fountains.jpg",
+				"path": "./images/dubai_fountains.JPG",
 				"title": "Dubai Fountain Show",
 				"subtitle": "Hani and Riley watching the fountains under the Burj Khalifa",
 				"rotate": 270
 			},
 			{
-				"path": "./images/dubai_marina.jpg",
+				"path": "./images/dubai_marina.JPG",
 				"title": "Marina",
 				"subtitle": "the marina in the morning light, on our way to the airport"
 			}
@@ -8238,21 +8238,21 @@ module.exports = [
 		"date": "December 22, 2016",
 		"images": [
 			{
-				"path": "./images/ethiopia/johannah.jpg",
+				"path": "./images/ethiopia/johannah.JPG",
 				"title": "Johannah"
 			},
 			{
-				"path": "./images/ethiopia/entoto_one.jpg",
+				"path": "./images/ethiopia/entoto_one.JPG",
 				"title": "Mt. Entoto",
 				"subtitle": "A prairie near the summit of Mt. Entoto, just outside of Addis"
 			},
 			{
-				"path": "./images/ethiopia/entoto_two.jpg",
+				"path": "./images/ethiopia/entoto_two.JPG",
 				"title": "Woman Working",
 				"subtitle": "there's a cadre of women and children who collect firewood on the mountain and carry it down to a market for sale"
 			},
 			{
-				"path": "./images/ethiopia/apartment_view.jpg",
+				"path": "./images/ethiopia/apartment_view.JPG",
 				"title": "View from our Addis Apartment",
 				"rotate": 270,
 				"subtitle": "partially built and abandonned buildings like this one are fairly common in Addis"
@@ -8290,33 +8290,33 @@ module.exports = [
 		"date": "December 25, 2016",
 		"images": [
 			{
-				"path": "./images/ethiopia/awasa_fish.jpg",
+				"path": "./images/ethiopia/awasa_fish.JPG",
 				"title": "Fish at the Beach",
 				"subtitle": "Awassa is a lake town, known for it's fish in landlocked Ethiopia"
 			},
 			{
-				"path": "./images/ethiopia/awasa_monkey.jpg",
+				"path": "./images/ethiopia/awasa_monkey.JPG",
 				"title": "Monkey Feeding",
 				"subtitle": "Amora Gedel Park has monkeys!",
 				"rotate": 270
 			},
 			{
-				"path": "./images/ethiopia/awasa_monkey_group.jpg",
+				"path": "./images/ethiopia/awasa_monkey_group.JPG",
 				"title": "Monkey Park",
 				"subtitle": "Most of these kids spend all day in the park selling peanuts to tourists like us to give to the monkeys"
 			},
 			{
-				"path": "./images/ethiopia/awasa_group_photo.jpg",
+				"path": "./images/ethiopia/awasa_group_photo.JPG",
 				"title": "",
 				"subtitle": "At the other side of Amora Gedel Park, taken by Shiru"
 			},
 			{
-				"path": "./images/ethiopia/awasa_market_seller.jpg",
+				"path": "./images/ethiopia/awasa_market_seller.JPG",
 				"title": "Awassa Market",
 				"subtitle": "A spice seller at the Awassa market (we asked and she kindly let us take her photo)"
 			},
 			{
-				"path": "./images/ethiopia/awasa_market_kids.jpg",
+				"path": "./images/ethiopia/awasa_market_kids.JPG",
 				"title": "Kids at the Market",
 				"subtitle": "these kids were really excited about striking a pose for the camera"
 			}
@@ -8353,27 +8353,27 @@ module.exports = [
 		"date": "December 27, 2016",
 		"images": [
 			{
-				"path": "./images/ethiopia/abijata_cows.jpg",
+				"path": "./images/ethiopia/abijata_cows.JPG",
 				"title": "Abijata Lake",
 				"subtitle": "A herd of cows and their owner in front of Abijata Lake"
 			},
 			{
-				"path": "./images/ethiopia/abijata_jeep.jpg",
+				"path": "./images/ethiopia/abijata_jeep.JPG",
 				"title": "Abijata National Park",
 				"subtitle": "Johannah and Riley looking like a couple of badasses by the jeep"
 			},
 			{
-				"path": "./images/ethiopia/abijata_hotspring.jpg",
+				"path": "./images/ethiopia/abijata_hotspring.JPG",
 				"title": "Hotsprings",
 				"subtitle": "We happened to meet a guide who led us to the hotsprings at Abijata"
 			},
 			{
-				"path": "./images/ethiopia/by_the_beach.jpg",
+				"path": "./images/ethiopia/by_the_beach.JPG",
 				"title": "Chatting on the Beach",
 				"subtitle": "Shiru and Johannah chatting at the beach and our tursty guide in red."
 			},
 			{
-				"path": "./images/ethiopia/abijata_kid.jpg",
+				"path": "./images/ethiopia/abijata_kid.JPG",
 				"title": "",
 				"subtitle": "A happy kid who followed us around while we explored the park",
 				"rotate": 270
@@ -8399,11 +8399,11 @@ module.exports = [
 		"date": "December 28, 2016",
 		"images": [
 			{
-				"path": "./images/ethiopia/awasa_dusk.jpg",
+				"path": "./images/ethiopia/awasa_dusk.JPG",
 				"title": "Awassa at Sunset"
 			},
 			{
-				"path": "./images/ethiopia/awasa_dusk_beer_two.jpg",
+				"path": "./images/ethiopia/awasa_dusk_beer_two.JPG",
 				"title": "Cheers, Ethiopia",
 				"rotate": 270
 			}
