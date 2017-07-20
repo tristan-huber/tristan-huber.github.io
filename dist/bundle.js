@@ -8150,41 +8150,117 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Seoul: Day 1",
+		"date": "July 20 2017",
+		"images": [
+			{
+				"path": "./images/korea/moma_painting.jpg",
+				"rotate": 360,
+				"title": "Art by Han Mook",
+				"subtitle": "As hosted in the National Museum of Modern and Contemporary Art"
+			},
+			{
+				"path": "./images/korea/roofs_one.JPG",
+				"title": "A confluence of roofs at Gyeongbokgung Palace"
+			},
+			{
+				"path": "./images/korea/ceiling.JPG",
+				"rotate": 270,
+				"title": "Ceiling in one of the buildings at Changdeokgung Palace"
+			},
+			{
+				"path": "./images/korea/cafe.JPG",
+				"rotate": 90,
+				"title": "Cafe Break",
+				"subtitle": "Found a spectacular little cafe after my palace visits. They had AC and iced coffee; it was heaven."
+			},
+			{
+				"path": "./images/korea/river_park.jpg",
+				"title": "River Park",
+				"subtitled": "Was treated to this view just before going to Gwangjang Market"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "The First Evening",
+				"body": "Arrived in Seoul on a hazy evening. I got to see, sort of, the city through the haze on the bus in from the airport. Remarkably, the instructions on the Hostel website were sufficient to get to the hostel from the airport, even without data or cell signal to check as I went along."
+			},
+			{
+				"body": "By dusk I'd made it to the hostel. I'm staying at Insa Hostel in the Insadong neighborhood, right near Anguk station. After checkin the Hostel host showed me some nearby restaurants. I went out for Bulgogi (served with Kimchi!) and made the mistake of ordering Soju, which, turns out, is like 17.5% alcahol. It comes in a 350mL bottle, so I left the restaurant without finishing that."
+			},
+			{
+				"body": "Jet lag was... survivable. I got a bit of sleep on the airplane and then had to push it a bit to stay up for dinner. I ended up crashing at about 9pm local."
+			},
+			{
+				"subtitle": "Seoul: Day One",
+				"body": "Woa, today was a productive day. Woke up around 8 for breakfast at the hostel. After that, first stop of the day was Gyeongbokgung Palace. Gyeongbokgung is historically the primary palace for the royal family. The complex is huge. It was origionally built in the 1300's, but has been burned down and rebuild several times since then (destroyed in 1592 by Japanese army, mostly burned down during Japanese occupation 1910-1945). The pictures above, and much of the palace available for exploration was most recently rebuilt since the 1990's. The cement roof peaks are a minor tell of the recent reoncstruction. Some of the palace is still under construction, but it still took me two hours to explore the entire available area. Additionally, there was a guard changing ceremony while I was there. The ceremony actually reminded me somewhat of the Brittish changing of the guard at the royal palace. Similar amount of ceremony and traditional dress"
+			},
+			{
+				"body": "After Gyeongbokgung I stopped for lunch in Bukchon Hanok village. I happened to be there during lunch hour and so got to follow a bunch of businessmen from the Constitutional Court to a local restaurant. None of the wait staff spoke english, but they set me up at a traditional (sitting) table for a course of bulgogi. From watching other tables it _seems_ like there's a tradition for cheering for whomever takes the check, which I kinda like. It seems like a good way to handle going out for lunch with coworkers every day; allowing someone new to take the check each week, and providing a group acknowlegement of that contribution each time."
+			},
+			{
+				"body": "After lunch I took a brief visit to Changdeokgung Palace. It turns out that Changdeokgung is pretty similar in it's architecture to Gyeongbokgung Palace, in part becuase buildings from Gyeongbokgung were used to rebuild Changdeokgung after it was burned down in the early 1900's. Given the similar style, and the hours I'd spent at Gyeongbokgung in the morning, I cut this visit short and made my way back towards Bukchon village. There I happened up on Double Cup Coffee, which turned out to be amazing. There's a photo above, it's a four story coffee shop, the counter is on the main floor, but there's seatting spaces above for several floors. The styling was all warm, wooded study/library theme. And there was AC! I realize I haven't specifically talked about this yet, but Seoul is _hot_. I've been sweatting all day; it's worse than NYC ever was in the summer."
+			},
+			{
+				"body": "So, after a long rest at the coffee shop I made the short outdoor walk to the National Museum of Modern and Contemporary Art. There museum had a great exhibit about a young architect project they host here (and in NYC!) as well as an interesting gallery by/about Krzysztof Wodiczko."
+			},
+			{
+				"body": "Finally, at long last, I wandered over to Gwangjang Market. This is a more local-centric market, which I'd higly recommend to anyone else visiting Seoul. Unfortunately, I didn't snap any photos while in the market, just the river park photot shown above."
+			}
+		]
+	},
+	{
+		"title": "Asia: Day 0",
+		"date": "July 18, 2017",
+		"images": [
+			{
+				"path": "./images/packing_photo_asia.jpg",
+				"title": "Obligatory Packing Photo",
+				"subtitle": "Here's all my things! Can you spot what I forgot? If so, please let me know"
+			}
+		],
+		"content": [
+			{
+				"body": "Not much to say here! I'm anxious and excited. Haven't been this nervous since moving to New York. Just got packed yesterday. Flight is at 2:40pm today."
+			}
+		]
+	},
+	{
 		"title": "Mexico",
 		"date": "January 2017",
 		"images": [
 			{
-				"path": "./images/cover.JPG",
+				"path": "./images/mexico/cover.JPG",
 				"title": "Sayulita, Mexico"
 			},
 			{
-				"path": "./images/riley_at_the_beach.JPG",
+				"path": "./images/mexico/riley_at_the_beach.JPG",
 				"title": "Riley at the Beach",
 				"subtitle": "visiting the beach by the house for sunset"
 			},
 			{
-				"path": "./images/meal.JPG",
+				"path": "./images/mexico/meal.JPG",
 				"title": "Our First Meal",
 				"subtitle": "our chef made the most beautiful (and tasty) food"
 			},
 			{
-				"path": "images/sayulita.JPG",
+				"path": "images/mexico/sayulita.JPG",
 				"title": "Downtown Sayulita",
 				"subtitle": "Day of the Dead flags were still up",
 				"rotate": 270
 			},
 			{
-				"path": "images/surfing_before.JPG",
+				"path": "images/mexico/surfing_before.JPG",
 				"title": "Surfing Game Face",
 				"subtitle": "rented a n00b board for super cheap from one of the many suft shacks on the beach"
 			},
 			{
-				"path": "images/surfing_after.JPG",
+				"path": "images/mexico/surfing_after.JPG",
 				"title": "Surfing Success",
 				"subtitle": "definitely had to buy a rash guard before my next surfing session"
 			},
 			{
-				"path": "images/pool_party.JPG",
+				"path": "images/mexico/pool_party.JPG",
 				"title": "Pool Party",
 				"subtitle": "celebrating our last night back at the big house"
 			}
@@ -8467,6 +8543,8 @@ function TravelEntry(props) {
                     " ",
                     props.title,
                     " "))),
+        React.createElement(Bootstrap.Row, { classname: "entryDate" },
+            React.createElement(Bootstrap.Col, null, props.date)),
         React.createElement(Bootstrap.Row, { className: "content" }, contents)));
 }
 var ProjectPage = React.createClass({
@@ -8528,7 +8606,7 @@ exports = module.exports = __webpack_require__(178)(undefined);
 exports.push([module.i, "@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);", ""]);
 
 // module
-exports.push([module.i, "body {\n  background: white;\n}\n.rotate90 {\n  -webkit-transform: rotate(90deg) scale(0.6667);\n  -moz-transform: rotate(90deg) scale(0.6667);\n  -o-transform: rotate(90deg) scale(0.6667);\n  -ms-transform: rotate(90deg) scale(0.6667);\n  transform: rotate(90deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate270 {\n  -webkit-transform: rotate(270deg) scale(0.6667);\n  -moz-transform: rotate(270deg) scale(0.6667);\n  -o-transform: rotate(270deg) scale(0.6667);\n  -ms-transform: rotate(270deg) scale(0.6667);\n  transform: rotate(270deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate180 {\n  -webkit-transform: rotate(180deg);\n  -moz-transform: rotate(180deg);\n  -o-transform: rotate(180deg);\n  -ms-transform: rotate(180deg);\n  transform: rotate(180deg);\n  transform-origin: 50%;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
+exports.push([module.i, "body {\n  background: white;\n}\n.entryDate {\n  padding-left: 20px;\n}\n.rotate90 {\n  -webkit-transform: rotate(90deg) scale(0.6667);\n  -moz-transform: rotate(90deg) scale(0.6667);\n  -o-transform: rotate(90deg) scale(0.6667);\n  -ms-transform: rotate(90deg) scale(0.6667);\n  transform: rotate(90deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate270 {\n  -webkit-transform: rotate(270deg) scale(0.6667);\n  -moz-transform: rotate(270deg) scale(0.6667);\n  -o-transform: rotate(270deg) scale(0.6667);\n  -ms-transform: rotate(270deg) scale(0.6667);\n  transform: rotate(270deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate360 {\n  margin: auto;\n  width: 685px;\n}\n.rotate180 {\n  -webkit-transform: rotate(180deg);\n  -moz-transform: rotate(180deg);\n  -o-transform: rotate(180deg);\n  -ms-transform: rotate(180deg);\n  transform: rotate(180deg);\n  transform-origin: 50%;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
 
 // exports
 

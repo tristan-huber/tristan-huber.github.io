@@ -60,6 +60,12 @@ function TravelEntry(props: TravelData) {
           </Bootstrap.Col>
         </Bootstrap.Row>
 
+        <Bootstrap.Row classname="entryDate">
+          <Bootstrap.Col>
+          {props.date}
+          </Bootstrap.Col>
+        </Bootstrap.Row>
+
         <Bootstrap.Row className="content">
           {contents}
         </Bootstrap.Row>
