@@ -1,5 +1,28 @@
 [
 	{
+		"title": "Yosuke!",
+		"date": "July 23 2017",
+		"images": [
+			{ "path": "./images/japan/group_photo.jpg", "subtitle": "right-to-left: Yosuke, Grace (a friend of Yosuke's from university in Japan), me"},
+			{ "path": "./images/japan/yellow.JPG", "title": "Favorite Car of the Day" },
+			{ "path": "./images/japan/yosuke_taking_picture.JPG", "title": "A Texas Plate!", "subtitle": "Grace was really excited to find a plate from her native Texas"},
+			{ "path": "./images/japan/bmk_bike.JPG", "rotate": 270, "title": "BMX Time!", "subtitle": "there was also a BMX trick show at the car festival"},
+			{ "path": "./images/japan/chevrolet.JPG", "subtitle": "The festival focused on American manufacture cars"}
+		],
+		"content": [
+			{
+				"subtitle": "AmeFes",
+				"body": "I got to see Yosuke! We met on Gotemba (a few hours outside of Tokyo) and he introduced me to Grace, a friend of his from university. We then drove the last 45min to Fuji Speedway. There we were finally on the grounds of AmeFes, short for America Festival, a celebration of American-made cars in Japan. There were some pretty incredible classics there, as well as a truly American amount of silly events (including the BMX pictured above)."
+			},
+			{
+				"body": "We got to watch a bunch of drag races, motorcycle and various car classes. Then spent a while wandering through the car show area. We also accidently snuck our way into the paddoc, and got some closeups with the race cars of the day."
+			},
+			{
+				"body": "More than seeing cool cars though, it was great to see Yosuke again, and to meet one of his friends in Japan."
+			}
+		]
+	},
+	{
 		"title": "Seoul: Day 2",
 		"date": "July 21 2017",
 		"images": [
