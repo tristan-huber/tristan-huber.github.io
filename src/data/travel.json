@@ -1,5 +1,25 @@
 [
 	{
+		"title": "Seoul: Day 2",
+		"date": "July 21 2017",
+		"images": [
+			{ "path": "./images/korea/city_view.JPG", "title": "Seoul", "subtitle": "View of Seoul from the shoulder of Bugakusan Mtn"},
+			{ "path": "./images/korea/city_wall.JPG", "rotate": 270, "title": "City Wall", "subtitle": "A slice of the old city wall, and objective of the days hike"}
+		],
+		"content": [
+			{
+				"subtitle": "The Hike",
+				"body": "Project of the day today was to reach the old city wall and follow it up to the top of Bugakusan Mountain. Morning started with a good breakfast at the hostel, and a 2km walk past yesterday's palaces and steeply uphill to my rendezvous with the city wall. The uphill climb continued to Malbawi Information Center. The info center marks the start of a 2.2km stretch of the city wall which is still an active Military zone. Photography is forbidden in this area; the photos above are taken from near the wall just before Malbawi. Through-hiking is still alowed for area of the wall from Malbawi to Changuimun Center, but it required showing my passport and providing contact info. Throughout the whole are there were minders every hundred meters or so. Whenever I wandered down a trail spur to a viewpoint or rest area I'd pick up a shadow. But, they were all very friendly despite the language barrier, so I can't complain. Moreover, unlike the US, most of these guards (and all the police I saw in the city) didn't carry side-arms."
+			},
+			{
+				"body": "Other than the friendly guards the hike was quite uneventful. That being said, it was shatteringly hot and humid. My calfs are still all crampy from the heat and all the stairs on the hike."
+			},
+			{
+				"body": "Finally, a quick thanks to the Lost Wanderer blog for thier detailed notes on this route: http://www.thelostwanderer.com/2012/05/seoul-fortress-wall-of-bugaksan.html"
+			}
+		]
+	},
+	{
 		"title": "Seoul: Day 1",
 		"date": "July 20 2017",
 		"images": [
