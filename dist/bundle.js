@@ -8150,6 +8150,139 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Mt. Fuji",
+		"date": "July 31 2017",
+		"images": [
+			{
+				"path": "./images/japan/fuji_slope.JPG",
+				"title": "The Ascent",
+				"subtitle": "about 2/3 of the way up"
+			},
+			{
+				"path": "./images/japan/riley_summit.JPG",
+				"title": "600m to go"
+			},
+			{
+				"path": "./images/japan/down_slope.JPG",
+				"title": "The Trail from Above"
+			},
+			{
+				"path": "./images/japan/summit_selfy.JPG",
+				"title": "Summit Selfy!"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "The Plan",
+				"body": "We took the first bus up to Subaru station and started our hike at about 8am. We were taking Yoshida trail, which is a moderate-sounding 3.6 miles on the way up, and 4.3mi on the way back down. But, it's worth appreciating that there's 1.4km of elevation gain squished into those 3.6 miles. In anticipatioin of this we packed in lunch and lots of snacks, plus 3 liters of water each."
+			},
+			{
+				"subtitle": "The Ascent",
+				"body": "Our ascent started strong. The bottom half of the trail is gravelly switchbacks. Around noon, about 4 hours into the hike, we were a couple hundred vertical meters from the top. The altitude and fatigue were beginning to slow us down. And so the final 600 meters of trail took us a full hour. But we made it eventually!"
+			},
+			{
+				"subtitle": "Summit",
+				"body": "The view from the summit was great! We lucked out on weather, spending most of the climb above or between clouds, and from the peak could catch snippets of Kawaguchiko way below. We chilled on the summit for a half hour, got a peek into the caldera, and bought some little souveneers. Also snapped the derpy selfy shown above, it's hard to frame well with the 35mm lense I've got."
+			},
+			{
+				"subtitle": "Descent",
+				"body": "Joyously, the descent was much faster than the climb. It took us about 2 hours to slip and slide back down the gravelly descent switchbacks. After we got down dropped off our rental boots, caught a bus back to Kawaguchiko, picked up our bags then caught a bus to Tokyo, then, finally, took the Shinkansen to Kyoto. After all our transit we finally reached our hostel in Kyoto at 11:30, and, at long last, got some sleep."
+			}
+		]
+	},
+	{
+		"title": "Kawaguchiko",
+		"date": "July 30 2017",
+		"images": [
+			{
+				"path": "./images/japan/kawaguchiko_lake.JPG",
+				"title": "Kawaguchiko Lake"
+			},
+			{
+				"path": "./images/japan/burger.JPG",
+				"title": "Dinner before Fuji"
+			}
+		],
+		"content": [
+			{
+				"body": "Today we rented hiking boots in Shinjuku then bussed up to Kawaguchiko, a small town at the base of Mt. Fuji. We're staying at a capsule hotel tonight (woa!). Loaded up on calories an American-style diner tonight. Tomorrow we wake up early to attempt to climb Fuji-san."
+			}
+		]
+	},
+	{
+		"title": "Fish Market",
+		"date": "July 28 2017",
+		"images": [
+			{
+				"path": "./images/japan/sushi.JPG",
+				"title": "Sushi",
+				"subtitle": "at the outter Tsukiji fish market"
+			},
+			{
+				"path": "./images/japan/sushi_face.JPG",
+				"title": "Yum!",
+				"subtitle": "my favorite was the fatty tuna"
+			},
+			{
+				"path": "./images/japan/fish_market_one.JPG",
+				"title": "The Inner Market"
+			},
+			{
+				"path": "./images/japan/fish_market_two.JPG",
+				"rotate": 270
+			}
+		],
+		"content": [
+			{
+				"body": "Woke up early to visit the fish market in Tokyo. Riley's not a fan of fish, so I was on my own to explore sushi heaven. We stopped at a great little shop in the outter market. Then afterward got mochi and made our way into the inner market for some more sight seeing."
+			},
+			{
+				"body": "Notably, the market is an active commerce space. As such much of the inner market is closed to tourists until 10am. It is possible to get tickets to see the Tuna auction which kicks off the day's market (it starts around 5am). But getting in to see the auction requires queueing for tickets from around 1am. So, we took a pass on the auction and just explored the market."
+			}
+		]
+	},
+	{
+		"title": "Riley!",
+		"date": "July 26 2017",
+		"images": [
+			{
+				"path": "./images/japan/zoetrope.JPG",
+				"title": "Riley's Here",
+				"subtitle": "second evening out we went to Zoetrope, a Japanese Whiskey bar"
+			},
+			{
+				"path": "./images/japan/shinjuku.JPG",
+				"rotate": 270,
+				"title": "Shinjuku",
+				"subtitle": "one of the major nightlife districts in Tokyo"
+			},
+			{
+				"path": "./images/japan/thrift_shop.JPG",
+				"title": "Frills in a Thrift Ship"
+			},
+			{
+				"path": "./images/japan/vita.JPG",
+				"rotate": 270,
+				"title": "Cafe Vita Beans",
+				"subtitle": "we found a cafe serving beans from Cafe Vita"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "Homeikan",
+				"body": "Met up with Riley without issue at Nippori station. We've been staying at Homeikan, which is a traditional style hotel near Tokyo University. After a school group moved out we were some of the only guests there, and the hostess gave us an impromptu tour of the art built into the building. The hotel was built by her grandfather, has been passed down through the family. Much of the building retains it's original art and design. Including beautiful artistic screen doors, onsen and showers in the basement, and mixed wood and stone flooring."
+			},
+			{
+				"subtitle": "Shibuya to Shinjuku",
+				"body": "For our first full day in the city we started out in Shibuya. There we got to see the Shibuya crossing, which wasn't very busy when we where there. We also stopped by Mandrake, a Manga/Anime/Comics store several stories underground. From Shibuya we headed north for lunch and an exploration of Meiji Shrine (currently undergoing some restoration in anticipation of it's 100th aniversary in 2020). After the shrine we made our way up to Shinjuku, another dense and exciting neighborhood in Tokyo. There we walked through the Golden Gai neighborhood, and visited Zoetrope, a bar specializing in Japanese-made Whiskey"
+			},
+			{
+				"subtitle": "Toshi!",
+				"body": "We met up with Toshi on the 28th for Ramen under the Tokyo SkyTree. After lunch we bussed out to Ooedo Onsen Monogatari where the three of us enjoyed foot baths and a generally very relaxing afternoon. Evening saw us back to the area around the Homeikan for dinner and sleep."
+			}
+		]
+	},
+	{
 		"title": "Yosuke!",
 		"date": "July 23 2017",
 		"images": [
