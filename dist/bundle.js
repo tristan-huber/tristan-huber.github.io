@@ -8274,11 +8274,11 @@ module.exports = [
 			},
 			{
 				"subtitle": "Shibuya to Shinjuku",
-				"body": "For our first full day in the city we started out in Shibuya. There we got to see the Shibuya crossing, which wasn't very busy when we where there. We also stopped by Mandrake, a Manga/Anime/Comics store several stories underground. From Shibuya we headed north for lunch and an exploration of Meiji Shrine (currently undergoing some restoration in anticipation of it's 100th aniversary in 2020). After the shrine we made our way up to Shinjuku, another dense and exciting neighborhood in Tokyo. There we walked through the Golden Gai neighborhood, and visited Zoetrope, a bar specializing in Japanese-made Whiskey"
+				"body": "For our first full day in the city we started out in Shibuya. There we got to see the Shibuya crossing, which wasn't very busy when we where there. We also stopped by Mandrake, a Manga/Anime/Comics store several stories underground. From Shibuya we headed north for lunch and an exploration of Meiji Shrine (currently undergoing some restoration in anticipation of it's 100th aniversary in 2020). After the shrine we strolled a few km up to Shinjuku, another dense and exciting neighborhood in Tokyo. There we walked through the Golden Gai neighborhood, and visited Zoetrope, a bar specializing in Japanese-made Whiskey. We were there early enough in the night that we had the tiny bar almost entirely to ourselves. The bar tender was really nice, though he didn't speak much english so our conversation was limitted. But we let us snap the photo of Riley above, and beautifully served our flights of whiskey. For the record, our favorite of the evening was Suntory's Chita Whiskey."
 			},
 			{
 				"subtitle": "Toshi!",
-				"body": "We met up with Toshi on the 28th for Ramen under the Tokyo SkyTree. After lunch we bussed out to Ooedo Onsen Monogatari where the three of us enjoyed foot baths and a generally very relaxing afternoon. Evening saw us back to the area around the Homeikan for dinner and sleep."
+				"body": "The next day (July 28th) we met up with Toshi for Ramen under the Tokyo SkyTree. After lunch we bussed out to Ooedo Onsen Monogatari where the three of us enjoyed foot baths and a generally very relaxing afternoon. Evening saw us back to the area around the Homeikan for dinner and sleep."
 			}
 		]
 	},
