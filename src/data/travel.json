@@ -1,5 +1,18 @@
 [
 	{
+		"title": "Matsuyama",
+		"date": "August 6 2017 - August 9 2017",
+		"images": [
+			{ "path": "./images/japan/dogo_onsen.JPG", "title": "Dogo Onsen"},
+			{ "path": "./images/japan/matsuyama_rope_tow.JPG", "title": "Rope Tow to Matsuyama Castle"}
+		],
+		"content": [
+			{
+				"body": "Going to keep it brief on this one. We were in Matsuyama for a few days in part to wait out tropical storm Niku. Our next step is a two-day bike ride back to Honshu. While we waited we were able to visit Dogo Onsen, a beautiful old Onsen and one of the more famous bathhouses in Japan. Supposedly it may have been an inspiration for some of aspects of the bathhouse in Spiritted Away. Regardless of whether that's true it was a beautiful and relaxing visit. Matsuyama Castle was also a pleasant surprize. It's smaller than Himeji but the exhibits inside were more extensive, including a very interesting section on the woodworking techniques used in construction of this and other castles (more on that in a future post)."
+			}
+		]
+	},
+	{
 		"title": "It's The Great Pumpkin Charlie Brown!",
 		"date": "August 5 2017",
 		"images": [
