@@ -8150,6 +8150,50 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "It's The Great Pumpkin Charlie Brown!",
+		"date": "August 5 2017",
+		"images": [
+			{
+				"path": "./images/japan/great_pumpkin.JPG",
+				"title": "A Pumpkin",
+				"subtitle": "An art installation on Naoshima Island"
+			},
+			{
+				"path": "./images/japan/bike_parking.JPG",
+				"title": "Bubbles",
+				"subtitle": "The top of a covered bike parking space by one of the ferry terminals in Naoshima"
+			},
+			{
+				"path": "./images/japan/riley_on_a_boat.JPG",
+				"subtitle": "On the ferry to Naoshima Island"
+			},
+			{
+				"path": "./images/japan/great_pumpkin_two.JPG",
+				"rotate": 270,
+				"title": "Another Pumpkin!",
+				"subtitle": "You can walk inside of this one"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "Naoshima Island",
+				"body": "Naoshima island is a small island just off the coast of Honshu. In the 60's? 80's? (TODO: date check) the Japanese government commisioned a ton of art installations and museums to be built on the island as part of an effort to revitalize rural Japan and stem the flow of young people into the major cities. It's unclear if it worked to towards that end, but since then Naoshima and the surrounding area has had a successful tourist industry, drawing many Japanese and some international tourists."
+			},
+			{
+				"body": "The island is quite small, about 4km at it's longest. So Riley and I rented bikes to get around for the day. Once again photos were forbidden in most of the museums so the above features just public exhibits."
+			},
+			{
+				"body": "There were two major highlights from the day. First was an exhibit by James Turrell. We were let into the exhibit in groups of 8 for 15 minutes each. Initially it seems to be a pitch dark room, but slowly, over the course of about 5 minutes, our eyes begin to adjust. A rectangle materializes ahead, it looks almost like a movie theater screen. After about ten minutes the doscent of the exhibit allows everyone to stand and walk towards the rectangle. At this point the pitch dark room has become slightly more tractable. People apear as dark silhouettes against an ever-so-slightly not black backdrop. As we approach the grey rectange it remains intangible, it's edges sharpen but the thing itself feels impossible to focus on. Finally, upon reaching the front of the room we discover the rectangle to be not a thing, but an empty space in the far wall, how deep the space or how tall or how wide it is beyond that rectangular window is impossible to gauge. We lean forward, passing a hand, maybe an arm, through that invisible barrier into the space beyond, to affirm that what we fail to see we also fail to touch. We're allowed another moment the take in the view of this distanceless untouchable space before the doscent asks us to file out the exit so the next group can come in."
+			},
+			{
+				"body": "Our second treat of the day was an introduction to the works of Ando Tadao. He was the architect commissioned to build most of the museums on the island, and has works throughout Japan. His style makes heavy use of flat cement walls and non-rectangular geometries."
+			},
+			{
+				"body": "After we finished our bicycle tour of the island and it's museums we took the ferry back to our hostel in Uno. Tomorrow we train to Matsuyama by way of Takamatsu."
+			}
+		]
+	},
+	{
 		"title": "Kyoto",
 		"date": "August 1 2017 - August 4 2017",
 		"images": [
