@@ -8180,7 +8180,36 @@ module.exports = [
 		],
 		"content": [
 			{
-				"body": "Off to dinner. Narrative is upcoming!"
+				"subtitle": "Manga Museum",
+				"body": "We got into Kyoto around midnight after summitting Fuji, which started a three day stint in the city. Day one we walked through the nearby market on our way to the Kyoto Manga museum. Sadly there's no photos allowed in the museum, so a picture of words will have to suffice. The museum was in an old school house and the main collection was a huge library of Manga, which overflowed the central exhibition space and continued onto bookshelves scattered throughout the building. This collection was augmented by an exhibit which recalled (in Japanese and English) the history of Manga as well as the technical aspects of authoring and mass producing the works. One of our favorite sections had a stack of clear overhead sheets, each with a different facial feature (ex: there was a stack of a dozen different noses, another stack with eyes, another with hair styles). You could stack and reorder these sheets to compose your own anime characters."
+			},
+			{
+				"subtitle": "Kenninji Shrine and Gyoza",
+				"body": "We wandered back to the hostel for a nap after the Manga museum, and before a night-time trip to Kenninji Shrine. This shrine has a tradition of doing night-time illuminations themed for each season. We were here for the second night of the Summer session. As well as the illuminated trees photo'ed above there was a light show projected onto a stone garden, and an eerie bamboo forest."
+			},
+			{
+				"subtitle": "Himeji Day Trip",
+				"body": "Day two in Kyoto and we're already taking advantage of our rail passes. Himeji is located about an hour from Kyoto by super-express train, which is covered by our pass so it made for a reasonable day trip."
+			},
+			{
+				"body": "First a bit of history about Himeji itself, a fort of some variety has been located here since the 1300's. The castle itself has burned and been rebuilt many times since then. The castle that stands today was built in 1800's (TODO: get an exact date for this). The castle miraculously survived the bombing of Himeji in WWII. There are some pretty stunning photos of the castle as the only building standing in a city mostly destroyed. And today Himeji stands as one of the largest and most impressive castles in Japan. Riley and I lucked out in our timing, as the castle is fully open to the public and in beautiful condition after a major restoration a couple years ago."
+			},
+			{
+				"body": "It was pretty sweltering on the day we visited, but even so walking through the castle grounds was delightful. We learned about the layout of the fortifications designted to give any attacers a circuitous route to reach the castle proper, and about lateral bracing used to make the 7 story structure more earthquake tollerant, and about the taxation policies which allowed the construction of such a huge fortification. And transcending these details was the scale and history of the structure itself. All in all it was a satisfying (if sweaty) day trip out of Kyoto."
+			},
+			{
+				"subtitle": "Common One Bar",
+				"body": "This bar was great, good enough even to get it's own section in this post. After returning from Himeji we grabbed some italian food for dinner and made our way to Common One bar on recommendation from Callan and Mere. Unusually for Japan this bar specializes in cocktails. And what's more, they don't keep a menu, instead requiring guests to discuss their tastes with the bartender, who then mixes something up to taste. And they're so good at it! We both sat in for a couple drinks, I got something sweet with whiskey, and Riley scored with a jasmine liqour blended with fresh muddled grapes. As you may have guessed the bar isn't especially cheap, but even so it was a delightful fancy treat night."
+			},
+			{
+				"subtitle": "Last day in Kyoto",
+				"body": "For our last day we bussed out to Fushimi Inari shrine. It was pretty packed when we got there, but we slipped out the back of the main tourist area to hike Inari 'mountain', just a couple km up and down among a bunch of smaller shrines. After the shrine and lunch we took a planning break back at the hostel."
+			},
+			{
+				"body": "For dinner we got to meet up with Yosuke and Grace again! They introduced us to Okonomiyaki, a Japanese savory pancake."
+			},
+			{
+				"body": "Tomorrow we take a train to Uno."
 			}
 		]
 	},
