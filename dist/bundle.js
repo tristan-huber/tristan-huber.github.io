@@ -8188,7 +8188,6 @@ module.exports = [
 			},
 			{
 				"path": "./images/japan/great_pumpkin_two.JPG",
-				"rotate": 270,
 				"title": "Another Pumpkin!",
 				"subtitle": "You can walk inside of this one"
 			}
@@ -8355,8 +8354,7 @@ module.exports = [
 				"title": "The Inner Market"
 			},
 			{
-				"path": "./images/japan/fish_market_two.JPG",
-				"rotate": 270
+				"path": "./images/japan/fish_market_two.JPG"
 			}
 		],
 		"content": [
@@ -8379,7 +8377,6 @@ module.exports = [
 			},
 			{
 				"path": "./images/japan/shinjuku.JPG",
-				"rotate": 270,
 				"title": "Shinjuku",
 				"subtitle": "one of the major nightlife districts in Tokyo"
 			},
@@ -8389,7 +8386,6 @@ module.exports = [
 			},
 			{
 				"path": "./images/japan/vita.JPG",
-				"rotate": 270,
 				"title": "Cafe Vita Beans",
 				"subtitle": "we found a cafe serving beans from Cafe Vita"
 			}
@@ -8428,7 +8424,6 @@ module.exports = [
 			},
 			{
 				"path": "./images/japan/bmk_bike.JPG",
-				"rotate": 270,
 				"title": "BMX Time!",
 				"subtitle": "there was also a BMX trick show at the car festival"
 			},
@@ -8461,7 +8456,6 @@ module.exports = [
 			},
 			{
 				"path": "./images/korea/city_wall.JPG",
-				"rotate": 270,
 				"title": "City Wall",
 				"subtitle": "A slice of the old city wall, and objective of the days hike"
 			}
@@ -8485,7 +8479,6 @@ module.exports = [
 		"images": [
 			{
 				"path": "./images/korea/moma_painting.jpg",
-				"rotate": 360,
 				"title": "Art by Han Mook",
 				"subtitle": "As hosted in the National Museum of Modern and Contemporary Art"
 			},
@@ -8495,12 +8488,10 @@ module.exports = [
 			},
 			{
 				"path": "./images/korea/ceiling.JPG",
-				"rotate": 270,
 				"title": "Ceiling in one of the buildings at Changdeokgung Palace"
 			},
 			{
 				"path": "./images/korea/cafe.JPG",
-				"rotate": 90,
 				"title": "Cafe Break",
 				"subtitle": "Found a spectacular little cafe after my palace visits. They had AC and iced coffee; it was heaven."
 			},
@@ -8576,8 +8567,7 @@ module.exports = [
 			{
 				"path": "images/mexico/sayulita.JPG",
 				"title": "Downtown Sayulita",
-				"subtitle": "Day of the Dead flags were still up",
-				"rotate": 270
+				"subtitle": "Day of the Dead flags were still up"
 			},
 			{
 				"path": "images/mexico/surfing_before.JPG",
@@ -8615,14 +8605,12 @@ module.exports = [
 		"images": [
 			{
 				"path": "./images/dubai_cover.JPG",
-				"title": "Dubai, UAE",
-				"rotate": 270
+				"title": "Dubai, UAE"
 			},
 			{
 				"path": "./images/dubai_fountains.JPG",
 				"title": "Dubai Fountain Show",
-				"subtitle": "Hani and Riley watching the fountains under the Burj Khalifa",
-				"rotate": 270
+				"subtitle": "Hani and Riley watching the fountains under the Burj Khalifa"
 			},
 			{
 				"path": "./images/dubai_marina.JPG",
@@ -8660,7 +8648,6 @@ module.exports = [
 			{
 				"path": "./images/ethiopia/apartment_view.JPG",
 				"title": "View from our Addis Apartment",
-				"rotate": 270,
 				"subtitle": "partially built and abandonned buildings like this one are fairly common in Addis"
 			}
 		],
@@ -8703,8 +8690,7 @@ module.exports = [
 			{
 				"path": "./images/ethiopia/awasa_monkey.JPG",
 				"title": "Monkey Feeding",
-				"subtitle": "Amora Gedel Park has monkeys!",
-				"rotate": 270
+				"subtitle": "Amora Gedel Park has monkeys!"
 			},
 			{
 				"path": "./images/ethiopia/awasa_monkey_group.JPG",
@@ -8781,8 +8767,7 @@ module.exports = [
 			{
 				"path": "./images/ethiopia/abijata_kid.JPG",
 				"title": "",
-				"subtitle": "A happy kid who followed us around while we explored the park",
-				"rotate": 270
+				"subtitle": "A happy kid who followed us around while we explored the park"
 			}
 		],
 		"content": [
@@ -8810,8 +8795,7 @@ module.exports = [
 			},
 			{
 				"path": "./images/ethiopia/awasa_dusk_beer_two.JPG",
-				"title": "Cheers, Ethiopia",
-				"rotate": 270
+				"title": "Cheers, Ethiopia"
 			}
 		],
 		"content": [
@@ -8850,8 +8834,8 @@ var TravelPage = React.createClass({
 function TravelEntry(props) {
     var images = props.images.map(function (imageDetails) {
         var image = imageDetails.rotate ?
-            React.createElement("img", { src: imageDetails.path, width: 1200, className: "rotate" + imageDetails.rotate }) :
-            React.createElement("img", { src: imageDetails.path, width: 1200 });
+            React.createElement("img", { src: imageDetails.path, className: "slide-image rotate" + imageDetails.rotate }) :
+            React.createElement("img", { src: imageDetails.path, className: "slide-image" });
         return React.createElement(Bootstrap.Carousel.Item, null,
             image,
             React.createElement(Bootstrap.Carousel.Caption, null,
@@ -8936,7 +8920,7 @@ exports = module.exports = __webpack_require__(178)(undefined);
 exports.push([module.i, "@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);", ""]);
 
 // module
-exports.push([module.i, "body {\n  background: white;\n}\n.entryDate {\n  padding-left: 20px;\n}\n.rotate90 {\n  -webkit-transform: rotate(90deg) scale(0.6667);\n  -moz-transform: rotate(90deg) scale(0.6667);\n  -o-transform: rotate(90deg) scale(0.6667);\n  -ms-transform: rotate(90deg) scale(0.6667);\n  transform: rotate(90deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate270 {\n  -webkit-transform: rotate(270deg) scale(0.6667);\n  -moz-transform: rotate(270deg) scale(0.6667);\n  -o-transform: rotate(270deg) scale(0.6667);\n  -ms-transform: rotate(270deg) scale(0.6667);\n  transform: rotate(270deg) scale(0.6667);\n  transform-origin: 50%;\n}\n.rotate360 {\n  margin: auto;\n  width: 685px;\n}\n.rotate180 {\n  -webkit-transform: rotate(180deg);\n  -moz-transform: rotate(180deg);\n  -o-transform: rotate(180deg);\n  -ms-transform: rotate(180deg);\n  transform: rotate(180deg);\n  transform-origin: 50%;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
+exports.push([module.i, "body {\n  background: white;\n}\n.entryDate {\n  padding-left: 20px;\n}\n.slide-image {\n  height: 600px !important;\n  margin: auto;\n}\n.rotate90 {\n  -webkit-transform: rotate(90deg);\n  -moz-transform: rotate(90deg);\n  -o-transform: rotate(90deg);\n  -ms-transform: rotate(90deg);\n  transform: rotate(90deg);\n  transform-origin: 50%;\n}\n.rotate270 {\n  -webkit-transform: rotate(270deg);\n  -moz-transform: rotate(270deg);\n  -o-transform: rotate(270deg);\n  -ms-transform: rotate(270deg);\n  transform: rotate(270deg);\n  transform-origin: 50%;\n}\n.rotate180 {\n  -webkit-transform: rotate(180deg);\n  -moz-transform: rotate(180deg);\n  -o-transform: rotate(180deg);\n  -ms-transform: rotate(180deg);\n  transform: rotate(180deg);\n  transform-origin: 50%;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
 
 // exports
 

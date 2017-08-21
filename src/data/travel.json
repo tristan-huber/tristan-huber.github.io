@@ -19,7 +19,7 @@
 			{ "path": "./images/japan/great_pumpkin.JPG", "title": "A Pumpkin", "subtitle": "An art installation on Naoshima Island"},
 			{ "path": "./images/japan/bike_parking.JPG", "title": "Bubbles", "subtitle": "The top of a covered bike parking space by one of the ferry terminals in Naoshima"},
 			{ "path": "./images/japan/riley_on_a_boat.JPG", "subtitle": "On the ferry to Naoshima Island"},
-			{ "path": "./images/japan/great_pumpkin_two.JPG", "rotate": 270, "title": "Another Pumpkin!", "subtitle": "You can walk inside of this one"}
+			{ "path": "./images/japan/great_pumpkin_two.JPG", "title": "Another Pumpkin!", "subtitle": "You can walk inside of this one"}
 		],
 		"content": [
 			{
@@ -133,7 +133,7 @@
 			{ "path": "./images/japan/sushi.JPG", "title": "Sushi", "subtitle": "at the outter Tsukiji fish market"},
 			{ "path": "./images/japan/sushi_face.JPG", "title": "Yum!", "subtitle": "my favorite was the fatty tuna"},
 			{ "path": "./images/japan/fish_market_one.JPG", "title": "The Inner Market"},
-			{ "path": "./images/japan/fish_market_two.JPG", "rotate": 270}
+			{ "path": "./images/japan/fish_market_two.JPG" }
 		],
 		"content": [
 			{
@@ -149,9 +149,9 @@
 		"date": "July 26 2017",
 		"images": [
 			{ "path": "./images/japan/zoetrope.JPG", "title": "Riley's Here", "subtitle": "second evening out we went to Zoetrope, a Japanese Whiskey bar"},
-			{ "path": "./images/japan/shinjuku.JPG", "rotate": 270, "title": "Shinjuku", "subtitle": "one of the major nightlife districts in Tokyo"},
+			{ "path": "./images/japan/shinjuku.JPG", "title": "Shinjuku", "subtitle": "one of the major nightlife districts in Tokyo"},
 			{ "path": "./images/japan/thrift_shop.JPG", "title": "Frills in a Thrift Ship"},
-			{ "path": "./images/japan/vita.JPG", "rotate": 270, "title": "Cafe Vita Beans", "subtitle": "we found a cafe serving beans from Cafe Vita"}
+			{ "path": "./images/japan/vita.JPG", "title": "Cafe Vita Beans", "subtitle": "we found a cafe serving beans from Cafe Vita"}
 		],
 		"content": [
 			{
@@ -175,7 +175,7 @@
 			{ "path": "./images/japan/group_photo.jpg", "subtitle": "right-to-left: Yosuke, Grace (a friend of Yosuke's from university in Japan), me"},
 			{ "path": "./images/japan/yellow.JPG", "title": "Favorite Car of the Day" },
 			{ "path": "./images/japan/yosuke_taking_picture.JPG", "title": "A Texas Plate!", "subtitle": "Grace was really excited to find a plate from her native Texas"},
-			{ "path": "./images/japan/bmk_bike.JPG", "rotate": 270, "title": "BMX Time!", "subtitle": "there was also a BMX trick show at the car festival"},
+			{ "path": "./images/japan/bmk_bike.JPG", "title": "BMX Time!", "subtitle": "there was also a BMX trick show at the car festival"},
 			{ "path": "./images/japan/chevrolet.JPG", "subtitle": "The festival focused on American manufacture cars"}
 		],
 		"content": [
@@ -196,7 +196,7 @@
 		"date": "July 21 2017",
 		"images": [
 			{ "path": "./images/korea/city_view.JPG", "title": "Seoul", "subtitle": "View of Seoul from the shoulder of Bugakusan Mtn"},
-			{ "path": "./images/korea/city_wall.JPG", "rotate": 270, "title": "City Wall", "subtitle": "A slice of the old city wall, and objective of the days hike"}
+			{ "path": "./images/korea/city_wall.JPG", "title": "City Wall", "subtitle": "A slice of the old city wall, and objective of the days hike"}
 		],
 		"content": [
 			{
@@ -215,10 +215,10 @@
 		"title": "Seoul: Day 1",
 		"date": "July 20 2017",
 		"images": [
-			{ "path": "./images/korea/moma_painting.jpg", "rotate": 360, "title": "Art by Han Mook", "subtitle": "As hosted in the National Museum of Modern and Contemporary Art"},
+			{ "path": "./images/korea/moma_painting.jpg", "title": "Art by Han Mook", "subtitle": "As hosted in the National Museum of Modern and Contemporary Art"},
 			{ "path": "./images/korea/roofs_one.JPG", "title": "A confluence of roofs at Gyeongbokgung Palace"},
-			{ "path": "./images/korea/ceiling.JPG", "rotate": 270, "title": "Ceiling in one of the buildings at Changdeokgung Palace"},
-			{ "path": "./images/korea/cafe.JPG", "rotate": 90, "title": "Cafe Break", "subtitle": "Found a spectacular little cafe after my palace visits. They had AC and iced coffee; it was heaven."},
+			{ "path": "./images/korea/ceiling.JPG", "title": "Ceiling in one of the buildings at Changdeokgung Palace"},
+			{ "path": "./images/korea/cafe.JPG", "title": "Cafe Break", "subtitle": "Found a spectacular little cafe after my palace visits. They had AC and iced coffee; it was heaven."},
 			{ "path": "./images/korea/river_park.jpg", "title": "River Park", "subtitled": "Was treated to this view just before going to Gwangjang Market"}
 		],
 		"content": [
@@ -270,7 +270,7 @@
 			{ "path": "./images/mexico/riley_at_the_beach.JPG", "title": "Riley at the Beach", "subtitle": "visiting the beach by the house for sunset"},
 			{ "path": "./images/mexico/meal.JPG", "title": "Our First Meal",
 			  "subtitle": "our chef made the most beautiful (and tasty) food"},
-			{ "path": "images/mexico/sayulita.JPG", "title": "Downtown Sayulita", "subtitle": "Day of the Dead flags were still up", "rotate": 270},
+			{ "path": "images/mexico/sayulita.JPG", "title": "Downtown Sayulita", "subtitle": "Day of the Dead flags were still up" },
 			{ "path": "images/mexico/surfing_before.JPG", "title": "Surfing Game Face", "subtitle": "rented a n00b board for super cheap from one of the many suft shacks on the beach"},
 			{ "path": "images/mexico/surfing_after.JPG", "title": "Surfing Success", "subtitle": "definitely had to buy a rash guard before my next surfing session"},
 			{ "path": "images/mexico/pool_party.JPG", "title": "Pool Party", "subtitle": "celebrating our last night back at the big house"}
@@ -292,9 +292,9 @@
 	{
 		"title": "Dubai",
 		"date": "December 2016",
-		"images": [{"path": "./images/dubai_cover.JPG", "title": "Dubai, UAE", "rotate": 270},
+		"images": [{"path": "./images/dubai_cover.JPG", "title": "Dubai, UAE" },
 							 {"path": "./images/dubai_fountains.JPG", "title": "Dubai Fountain Show",
-								 "subtitle": "Hani and Riley watching the fountains under the Burj Khalifa", "rotate": 270},
+								 "subtitle": "Hani and Riley watching the fountains under the Burj Khalifa" },
 							 {"path": "./images/dubai_marina.JPG","title": "Marina", "subtitle": "the marina in the morning light, on our way to the airport"}
 							],
 		"content": [
@@ -315,7 +315,7 @@
 				"subtitle": "A prairie near the summit of Mt. Entoto, just outside of Addis"},
 			{ "path": "./images/ethiopia/entoto_two.JPG", "title": "Woman Working", "subtitle": "there's a cadre of women and children who collect firewood on the mountain and carry it down to a market for sale"},
 			{ "path": "./images/ethiopia/apartment_view.JPG", "title": "View from our Addis Apartment",
-				"rotate": 270, "subtitle": "partially built and abandonned buildings like this one are fairly common in Addis"}
+				"subtitle": "partially built and abandonned buildings like this one are fairly common in Addis"}
 		],
 		"content": [
 			{
@@ -351,7 +351,7 @@
 			{ "path": "./images/ethiopia/awasa_fish.JPG", "title": "Fish at the Beach",
 				"subtitle": "Awassa is a lake town, known for it's fish in landlocked Ethiopia"},
 			{ "path": "./images/ethiopia/awasa_monkey.JPG", "title": "Monkey Feeding",
-				"subtitle": "Amora Gedel Park has monkeys!", "rotate": 270 },
+				"subtitle": "Amora Gedel Park has monkeys!" },
 			{ "path": "./images/ethiopia/awasa_monkey_group.JPG", "title": "Monkey Park",
 				"subtitle": "Most of these kids spend all day in the park selling peanuts to tourists like us to give to the monkeys" },
 			{ "path": "./images/ethiopia/awasa_group_photo.JPG", "title": "",
@@ -401,8 +401,7 @@
 			{ "path": "./images/ethiopia/by_the_beach.JPG", "title": "Chatting on the Beach",
 				"subtitle": "Shiru and Johannah chatting at the beach and our tursty guide in red."},
 			{ "path": "./images/ethiopia/abijata_kid.JPG", "title": "",
-				"subtitle": "A happy kid who followed us around while we explored the park",
-				"rotate": 270}
+				"subtitle": "A happy kid who followed us around while we explored the park" }
 		],
 		"content": [
 			{
@@ -424,7 +423,7 @@
 		"date": "December 28, 2016",
 		"images": [
 			{ "path": "./images/ethiopia/awasa_dusk.JPG", "title": "Awassa at Sunset" },
-			{ "path": "./images/ethiopia/awasa_dusk_beer_two.JPG", "title": "Cheers, Ethiopia", "rotate": 270}
+			{ "path": "./images/ethiopia/awasa_dusk_beer_two.JPG", "title": "Cheers, Ethiopia"}
 		],
 		"content": [
 			{ "body": "Our final day in Awassa was a restive one. We met Shiru's mother and got to see his childhood home. Later, we watched dusk at Shiru's restaurant before an early bedtime." },
