@@ -8833,11 +8833,8 @@ var TravelPage = React.createClass({
 });
 function TravelEntry(props) {
     var images = props.images.map(function (imageDetails) {
-        var image = imageDetails.rotate ?
-            React.createElement("img", { src: imageDetails.path, className: "slide-image rotate" + imageDetails.rotate }) :
-            React.createElement("img", { src: imageDetails.path, className: "slide-image" });
         return React.createElement(Bootstrap.Carousel.Item, null,
-            image,
+            React.createElement("img", { src: imageDetails.path, className: "slide-image" }),
             React.createElement(Bootstrap.Carousel.Caption, null,
                 React.createElement("h3", null, imageDetails.title),
                 React.createElement("p", null, imageDetails.subtitle)));
@@ -8920,7 +8917,7 @@ exports = module.exports = __webpack_require__(178)(undefined);
 exports.push([module.i, "@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);", ""]);
 
 // module
-exports.push([module.i, "body {\n  background: white;\n}\n.entryDate {\n  padding-left: 20px;\n}\n.slide-image {\n  height: 600px !important;\n  margin: auto;\n}\n.rotate90 {\n  -webkit-transform: rotate(90deg);\n  -moz-transform: rotate(90deg);\n  -o-transform: rotate(90deg);\n  -ms-transform: rotate(90deg);\n  transform: rotate(90deg);\n  transform-origin: 50%;\n}\n.rotate270 {\n  -webkit-transform: rotate(270deg);\n  -moz-transform: rotate(270deg);\n  -o-transform: rotate(270deg);\n  -ms-transform: rotate(270deg);\n  transform: rotate(270deg);\n  transform-origin: 50%;\n}\n.rotate180 {\n  -webkit-transform: rotate(180deg);\n  -moz-transform: rotate(180deg);\n  -o-transform: rotate(180deg);\n  -ms-transform: rotate(180deg);\n  transform: rotate(180deg);\n  transform-origin: 50%;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
+exports.push([module.i, "body {\n  background: white;\n}\n.entryDate {\n  padding-left: 20px;\n}\n.slide-image {\n  height: 600px !important;\n  margin: auto;\n}\n.travel-entry {\n  border-radius: 5px;\n  box-shadow: 2px 1px 1px #ddd;\n  background-color: #f3f7fd;\n  margin-bottom: 50px;\n  overflow: hidden;\n}\n.travel-entry .content-subsection {\n  padding-left: 15px;\n  padding-right: 15px;\n}\n.travel-entry .images {\n  -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);\n}\n.travel-entry .carousel .active.item {\n  background-color: #343435;\n}\n.navbar {\n  background: #343435;\n  border-color: #2c2c2d;\n  border: 1px solid transparent;\n  box-shadow: 0px 1px 1px #343435;\n  border-radius: 0px;\n}\n", ""]);
 
 // exports
 

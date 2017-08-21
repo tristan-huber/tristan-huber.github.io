@@ -26,11 +26,8 @@ const TravelPage = React.createClass({
 
 function TravelEntry(props: TravelData) {
     var images = props.images.map((imageDetails) => {
-      var image = imageDetails.rotate ?
-                      <img src={imageDetails.path} className={`slide-image rotate${imageDetails.rotate}`} /> :
-                      <img src={imageDetails.path} className="slide-image"/>;
       return <Bootstrap.Carousel.Item>
-        {image}
+        <img src={imageDetails.path} className="slide-image"/>
         <Bootstrap.Carousel.Caption>
           <h3>{imageDetails.title}</h3>
           <p>{imageDetails.subtitle}</p>
