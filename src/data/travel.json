@@ -1,5 +1,23 @@
 [
 	{
+		"title": "Farewell Japan",
+		"date": "August 19 2017",
+		"images": [
+			{ "path": "./images/japan/st_vincent.JPG", "title": "St. Vincent!" }
+		],
+		"content": [
+			{
+				"body": "All night concert with St. Vincent! Our final day and night in Japan were intense. We left Shirakawa-go in the morning, bussed to Kanazawa, then Shinkansen to Tokyo. Quick run and a nap at our hostel in Tokyo, followed by a huge dinner. Then it was time to take the train out to Makuhari Messe. We got there around midnight and St. Vincent took the stage at 1:45 am or so. It was amazing! This was my first time seeing her live. The show was very performance-art; she was on the stage solo for her entire set, no backup band, and the visual show was really interesting, lots of looped and cut shots of her on various colorful sets. As encore she played a New York and another here-to-fore unreleased song off the upcoming album (believed that this track will be titled 'LA')."
+			},
+			{
+				"body": "Riley has seen St. Vincent before several times. Talking with her after the show, it seems like this artsy-ness is a somewhat new direction for St. Vincent. Both excited for the new album release. For the curious, there's a new 'Song Exploder' episode with St. Vincent about her latest song New York."
+			},
+			{
+				"body": "After the show we were stranded until the first train at 4:45am took us back to the hostel. Cought a couple hours of sleep there, then flight to Taiwan."
+			}
+		]
+	},
+	{
 		"title": "Shirakawa-go",
 		"date": "August 17 2017 - August 18 2017",
 		"images": [
@@ -23,7 +41,7 @@
 		"images": [
 			{ "path": "./images/japan/kanazawa_art.JPG", "title": "Kanazawa Contemporary Art Museum", "subtitle": "An exhibit composed of flotsom collected at Japanese beaches" },
 			{ "path": "./images/japan/kanazawa_pool.JPG", "title": "Kanazawa Contemporary Art Museum", "subtitle": "There's people down there!" },
-			{ "path": "./images/japan/kanazawa_castle_interior", "title": "Interior of Kanazawa Castle"}
+			{ "path": "./images/japan/kanazawa_castle_interior.JPG", "title": "Interior of Kanazawa Castle"}
 		],
 		"content": [
 			{
