@@ -1,5 +1,23 @@
 [
 	{
+		"title": "Shirakawa-go",
+		"date": "August 17 2017 - August 18 2017",
+		"images": [
+			{ "path": "./images/japan/shirakawa_river.JPG" },
+			{ "path": "./images/japan/shirakawa_overview.JPG", "title": "Shirakawa-go", "subtitle": "as viewed from a hill above the town"},
+			{ "path": "./images/japan/shirakawa_rice.JPG", "title": "Rice Field in Town"},
+			{ "path": "./images/japan/shirakawa_carriage.JPG", "subtitle": "At right is a reconstruction of the cable-carriage used to cross the river outside Shirakawago"}
+		],
+		"content": [
+			{
+				"body": "Shirakawa-go is a small mountain town an hour outside of Kanazawa, marked a world herritage site for the traditional houses and buildings found there. During the day it gets fairly busy, with a lot of one-day visitors in from Kanazawa. Riley and I were staying in the new-town area of Shirakawa-go, about a 20 minute walk from the famed old-town. And so we had the pleasure of seeing the beautiful old homes and rice fields around dawn and dusk, when we were some of the only tourists around. The above photo of the entire town was taken on an early morning venture into old-town, you can see some early-morning fog still clinging to the hillside above the town."
+			},
+			{
+				"body": "We had the time, and so took a bus up to an even smaller town beyond Shirakawa-go. And there I got to go to a home-turned-museum. This museum related the former industries of this region of Japan. It turns out that this area was long held by the Koga tribe where they excelled at silk production. They later became producers of excelent black powder after same was introduced to Japan by a shipwrecked Portugese crew in the mid 1500's. All the while access to Shirakawa-go and surrounding areas was kept secure by mountains at their back and a river in front. The Koga tribe refused to bridge the river, prefering instead to limit passage into the region by constructing a cable-carriage. A reconstruction of this carriage is pictured above. And as far as this museum reported their security measures worked. The region remained in control of the Koga tribe until black powder lost relevance. Later this area experienced a resurgence from tourism."
+			}
+		]
+	},
+	{
 		"title": "Kanazawa",
 		"date": "August 12 2017 - August 16 2017",
 		"images": [
@@ -7,7 +25,22 @@
 			{ "path": "./images/japan/kanazawa_pool.JPG", "title": "Kanazawa Contemporary Art Museum", "subtitle": "There's people down there!" },
 			{ "path": "./images/japan/kanazawa_castle_interior", "title": "Interior of Kanazawa Castle"}
 		],
-		"content": []
+		"content": [
+			{
+				"body": "We ended up Kanazawa for a fairly long time so enjoyed exploring the town at a leisurely pace. Highlights were the castle and the contemporary art museum in town."
+			},
+			{
+				"subtitle": "Kanazawa Contemporary Art Museum",
+				"body": "The museum occupies an interesting circular building with exhibits scattered throughout a divided interior space. In the main lobby is the false pool pictured above, allows people to walk around above the pool (just like normal pools), but has a see-through false bottom which makes the ceiling of a room located inside what would normally be water. We didn't get tickets for the under-pool space, but it was a fun exhibit all the same. There was also another James Turrell exhibit here, this one was a more traditional Turrell, in that it was an open-rooffed room which invited the viewer to admire the sky as art."
+			},
+			{
+				"body": "Riley was particularly enamored with a exhibit of collaboration work between a Japanese Artist and a Dutch architect, was composed of a lot of elegant and practical furnishings and house designs."
+			},
+			{
+				"subtitle": "Kanazawa Castle",
+				"body": "The castle in Kanazawa isn't as dramatically tall as Himeji or Matsuyama. However the grounds are expansive and the primary building contains a long two-story hall (see photo above for sense of that space). And just as at the other two castles the woodworking and construction techniques here were incredibly impressive."
+			}
+		]
 	},
 	{
 		"title": "Hiroshima",
@@ -15,15 +48,27 @@
 		"images": [
 			{ "path": "./images/japan/hiroshima.JPG", "title": "Hiroshima City" },
 			{ "path": "./images/japan/hiroshima_dome.JPG", "title": "Hiroshima Peace Memorial"},
-			{ "path": "./images/japan/meiji_gate.JPG", "title": "Meiji Shrine just outside Hiroshima"}
+			{ "path": "./images/japan/meiji_gate.JPG", "title": "Meiji Shrine just outside Hiroshima"},
+			{ "path": "./images/japan/scary_deer.JPG", "title": "A Deer Approaches", "subtitle": "Meiji island was full of docile deer"}
 		],
 		"content": [
 			{
-				"body": "We only had one full day in Hiroshima, but we made it a full one."
+				"body": "We only had one day in Hiroshima, but we made it a full one."
 			},
 			{
 				"subtitle": "Hiroshima Peace Memorial",
-				"body": "I don't have a lot to say here. The memorial and adjascent museum were a moving retelling of the history of atomic weapons and their use at Hiroshima and Nagasaki, and a powerful call for disarmament."
+				"body": "I'm going to be brief here. The memorial and adjascent museum were a moving retelling of the history of atomic weapons and their use at Hiroshima and Nagasaki, and a powerful call for disarmament. A site absolutely worth seeing for any who have the opportunity. For any friends and family who'd like to talk more about this part of Hiroshima let's continue the conversation through a more dirrect medium than this blog."
+			},
+			{
+				"subtitle": "Manga Library",
+				"body": "After the memorial we walked across town to a Manga library I'd heard about, hoping it would be similar to the Manga Museum in Kyoto. However, this turned out to just be a library, no exhibits. They had a limitted english section and I was able to read through a translation of 47 Ronin, so it wasn't all a loss."
+			},
+			{
+				"subtitle": "Meiji Shrine",
+				"body": "After the Manga library and a bite to eat we took the train out towards Meiji shrine, located on an island outside of Hiroshima city. The main draw is the huge Torii Gate which rises out of the ocean at high tide. We were there at low tide and so were able to walk out to the base of the gate. Also the island is full of deer! And they're really friendly, lots of people feed them I guess."
+			},
+			{
+				"body": "We left Meiji just after dusk and nabbed a late dinner after by the hostel."
 			}
 		]
 	},

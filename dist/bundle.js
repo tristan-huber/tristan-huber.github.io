@@ -8150,6 +8150,154 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Shirakawa-go",
+		"date": "August 17 2017 - August 18 2017",
+		"images": [
+			{
+				"path": "./images/japan/shirakawa_river.JPG"
+			},
+			{
+				"path": "./images/japan/shirakawa_overview.JPG",
+				"title": "Shirakawa-go",
+				"subtitle": "as viewed from a hill above the town"
+			},
+			{
+				"path": "./images/japan/shirakawa_rice.JPG",
+				"title": "Rice Field in Town"
+			},
+			{
+				"path": "./images/japan/shirakawa_carriage.JPG",
+				"subtitle": "At right is a reconstruction of the cable-carriage used to cross the river outside Shirakawago"
+			}
+		],
+		"content": [
+			{
+				"body": "Shirakawa-go is a small mountain town an hour outside of Kanazawa, marked a world herritage site for the traditional houses and buildings found there. During the day it gets fairly busy, with a lot of one-day visitors in from Kanazawa. Riley and I were staying in the new-town area of Shirakawa-go, about a 20 minute walk from the famed old-town. And so we had the pleasure of seeing the beautiful old homes and rice fields around dawn and dusk, when we were some of the only tourists around. The above photo of the entire town was taken on an early morning venture into old-town, you can see some early-morning fog still clinging to the hillside above the town."
+			},
+			{
+				"body": "We had the time, and so took a bus up to an even smaller town beyond Shirakawa-go. And there I got to go to a home-turned-museum. This museum related the former industries of this region of Japan. It turns out that this area was long held by the Koga tribe where they excelled at silk production. They later became producers of excelent black powder after same was introduced to Japan by a shipwrecked Portugese crew in the mid 1500's. All the while access to Shirakawa-go and surrounding areas was kept secure by mountains at their back and a river in front. The Koga tribe refused to bridge the river, prefering instead to limit passage into the region by constructing a cable-carriage. A reconstruction of this carriage is pictured above. And as far as this museum reported their security measures worked. The region remained in control of the Koga tribe until black powder lost relevance. Later this area experienced a resurgence from tourism."
+			}
+		]
+	},
+	{
+		"title": "Kanazawa",
+		"date": "August 12 2017 - August 16 2017",
+		"images": [
+			{
+				"path": "./images/japan/kanazawa_art.JPG",
+				"title": "Kanazawa Contemporary Art Museum",
+				"subtitle": "An exhibit composed of flotsom collected at Japanese beaches"
+			},
+			{
+				"path": "./images/japan/kanazawa_pool.JPG",
+				"title": "Kanazawa Contemporary Art Museum",
+				"subtitle": "There's people down there!"
+			},
+			{
+				"path": "./images/japan/kanazawa_castle_interior",
+				"title": "Interior of Kanazawa Castle"
+			}
+		],
+		"content": [
+			{
+				"body": "We ended up Kanazawa for a fairly long time so enjoyed exploring the town at a leisurely pace. Highlights were the castle and the contemporary art museum in town."
+			},
+			{
+				"subtitle": "Kanazawa Contemporary Art Museum",
+				"body": "The museum occupies an interesting circular building with exhibits scattered throughout a divided interior space. In the main lobby is the false pool pictured above, allows people to walk around above the pool (just like normal pools), but has a see-through false bottom which makes the ceiling of a room located inside what would normally be water. We didn't get tickets for the under-pool space, but it was a fun exhibit all the same. There was also another James Turrell exhibit here, this one was a more traditional Turrell, in that it was an open-rooffed room which invited the viewer to admire the sky as art."
+			},
+			{
+				"body": "Riley was particularly enamored with a exhibit of collaboration work between a Japanese Artist and a Dutch architect, was composed of a lot of elegant and practical furnishings and house designs."
+			},
+			{
+				"subtitle": "Kanazawa Castle",
+				"body": "The castle in Kanazawa isn't as dramatically tall as Himeji or Matsuyama. However the grounds are expansive and the primary building contains a long two-story hall (see photo above for sense of that space). And just as at the other two castles the woodworking and construction techniques here were incredibly impressive."
+			}
+		]
+	},
+	{
+		"title": "Hiroshima",
+		"date": "August 11 2017",
+		"images": [
+			{
+				"path": "./images/japan/hiroshima.JPG",
+				"title": "Hiroshima City"
+			},
+			{
+				"path": "./images/japan/hiroshima_dome.JPG",
+				"title": "Hiroshima Peace Memorial"
+			},
+			{
+				"path": "./images/japan/meiji_gate.JPG",
+				"title": "Meiji Shrine just outside Hiroshima"
+			},
+			{
+				"path": "./images/japan/scary_deer.JPG",
+				"title": "A Deer Approaches",
+				"subtitle": "Meiji island was full of docile deer"
+			}
+		],
+		"content": [
+			{
+				"body": "We only had one day in Hiroshima, but we made it a full one."
+			},
+			{
+				"subtitle": "Hiroshima Peace Memorial",
+				"body": "I'm going to be brief here. The memorial and adjascent museum were a moving retelling of the history of atomic weapons and their use at Hiroshima and Nagasaki, and a powerful call for disarmament. A site absolutely worth seeing for any who have the opportunity. For any friends and family who'd like to talk more about this part of Hiroshima let's continue the conversation through a more dirrect medium than this blog."
+			},
+			{
+				"subtitle": "Manga Library",
+				"body": "After the memorial we walked across town to a Manga library I'd heard about, hoping it would be similar to the Manga Museum in Kyoto. However, this turned out to just be a library, no exhibits. They had a limitted english section and I was able to read through a translation of 47 Ronin, so it wasn't all a loss."
+			},
+			{
+				"subtitle": "Meiji Shrine",
+				"body": "After the Manga library and a bite to eat we took the train out towards Meiji shrine, located on an island outside of Hiroshima city. The main draw is the huge Torii Gate which rises out of the ocean at high tide. We were there at low tide and so were able to walk out to the base of the gate. Also the island is full of deer! And they're really friendly, lots of people feed them I guess."
+			},
+			{
+				"body": "We left Meiji just after dusk and nabbed a late dinner after by the hostel."
+			}
+		]
+	},
+	{
+		"title": "Setouchi Shimanami Kaido",
+		"date": "August 9 2017 - August 10 2017",
+		"images": [
+			{
+				"path": "./images/japan/bike_map.JPG",
+				"title": "Route Map",
+				"subtitle": "We went from Imabari to Onomichi (left to right on this map)"
+			},
+			{
+				"path": "./images/japan/boat_while_biking.JPG",
+				"title": "View from Omishima Bridge"
+			},
+			{
+				"path": "./images/japan/riley_bike.JPG",
+				"title": "Riley Biking",
+				"subtitle": "staying strong for the bike ride!"
+			}
+		],
+		"content": [
+			{
+				"body": "The Shimanami Kaido is a ~70km bike route which traverses several bridges from Shikoku to Honshu (two of the big islands of Japan). We took a leisurely two days to cover the full route."
+			},
+			{
+				"subtitle": "Day One",
+				"body": "The first day involved a lot of logistics before the ride. We took the train up to Imabari from Matsuyama. Then we wandered off to find a Yamato office (a shipping service, like Fedex, but in Japan). The folks at the Yamato office in Imabari didn't speak English. But one of the women working there was really enthusiastic about helping us, and between some miming, my barely recalled Japanese and Google translate we were able to ship our big backpacks ahead of us to our hostel in Hiroshima. This left Riley and I with only our much lighter day bags, packed with a bunch of food, water, essential documents and a change of clothes."
+			},
+			{
+				"body": "After the Yamato office we wandered off to rent bicycles. We scored a couple of Giant commuter-style bikes from the public bike rental service. This rental service has stations all along the route and allows returns to any location. So, if we'd needed to bail after day one or something we wouldn't be saddled with the bikes."
+			},
+			{
+				"body": "But we shouldn't have worried, the first day was warm but not too hot allowing us a pleasant three hour ride out to Omishima Island. We nabbed some lunch at a 7/11, and arrived at our hostel at 4:45, just before our checkin time at 5pm. In the evening we wandered around Miyaura Port and had some Japanese style BBQ for dinner. We also met a bunch of friendly Australians at the Hostel."
+			},
+			{
+				"subtitle": "Day Two",
+				"body": "Day two was a good deal hotter than day one. Where day one was warm and hazy, day two was clear and scaldingly hot. We did bring sunscreen, but for much of the ride I was too sweaty for it to stick. By the end of the day I'd gotten myself pretty badly burned. I even developed a clear backpack-shaped burn-shadow on my back. But despite this we made good time and reached Onomichi around two. There we got lunch, then took the Shinkansen out to meet our bags at the hostel in Hiroshima."
+			}
+		]
+	},
+	{
 		"title": "Matsuyama",
 		"date": "August 6 2017 - August 9 2017",
 		"images": [
@@ -8164,7 +8312,7 @@ module.exports = [
 		],
 		"content": [
 			{
-				"body": "Going to keep it brief on this one. We were in Matsuyama for a few days in part to wait out tropical storm Niku. Our next step is a two-day bike ride back to Honshu. While we waited we were able to visit Dogo Onsen, a beautiful old Onsen and one of the more famous bathhouses in Japan. Supposedly it may have been an inspiration for some of aspects of the bathhouse in Spiritted Away. Regardless of whether that's true it was a beautiful and relaxing visit. Matsuyama Castle was also a pleasant surprize. It's smaller than Himeji but the exhibits inside were more extensive, including a very interesting section on the woodworking techniques used in construction of this and other castles (more on that in a future post)."
+				"body": "Going to keep it brief on this one. We were in Matsuyama for a few days in part to wait out Typhoon Noru. Our next step is a two-day bike ride back to Honshu. While we waited we were able to visit Dogo Onsen, a beautiful old Onsen and one of the more famous bathhouses in Japan. Supposedly it may have been an inspiration for some of aspects of the bathhouse in Spiritted Away. Regardless of whether that's true it was a beautiful and relaxing visit. Matsuyama Castle was also a pleasant surprize. It's smaller than Himeji but the exhibits inside were more extensive, including a very interesting section on the woodworking techniques used in construction of this and other castles (more on that in a future post)."
 			}
 		]
 	},
@@ -8195,13 +8343,13 @@ module.exports = [
 		"content": [
 			{
 				"subtitle": "Naoshima Island",
-				"body": "Naoshima island is a small island just off the coast of Honshu. In the 60's? 80's? (TODO: date check) the Japanese government commisioned a ton of art installations and museums to be built on the island as part of an effort to revitalize rural Japan and stem the flow of young people into the major cities. It's unclear if it worked to towards that end, but since then Naoshima and the surrounding area has had a successful tourist industry, drawing many Japanese and some international tourists."
+				"body": "Naoshima island is a small island just off the coast of Honshu. In the 1980's the Japanese government commisioned a ton of art installations and museums to be built on the island as part of an effort to revitalize rural Japan and stem the flow of young people into the major cities. It's unclear if it worked to towards that end, but since then Naoshima and the surrounding area has had a successful tourist industry, drawing many Japanese and some international tourists."
 			},
 			{
 				"body": "The island is quite small, about 4km at it's longest. So Riley and I rented bikes to get around for the day. Once again photos were forbidden in most of the museums so the above features just public exhibits."
 			},
 			{
-				"body": "There were two major highlights from the day. First was an exhibit by James Turrell. We were let into the exhibit in groups of 8 for 15 minutes each. Initially it seems to be a pitch dark room, but slowly, over the course of about 5 minutes, our eyes begin to adjust. A rectangle materializes ahead, it looks almost like a movie theater screen. After about ten minutes the doscent of the exhibit allows everyone to stand and walk towards the rectangle. At this point the pitch dark room has become slightly more tractable. People apear as dark silhouettes against an ever-so-slightly not black backdrop. As we approach the grey rectange it remains intangible, it's edges sharpen but the thing itself feels impossible to focus on. Finally, upon reaching the front of the room we discover the rectangle to be not a thing, but an empty space in the far wall, how deep the space or how tall or how wide it is beyond that rectangular window is impossible to gauge. We lean forward, passing a hand, maybe an arm, through that invisible barrier into the space beyond, to affirm that what we fail to see we also fail to touch. We're allowed another moment the take in the view of this distanceless untouchable space before the doscent asks us to file out the exit so the next group can come in."
+				"body": "There were two major highlights from the day. First was an exhibit by James Turrell. We were let into the exhibit in groups of 8 for 15 minutes each. Initially it seems to be a pitch dark room, but slowly, over the course of about 5 minutes, our eyes begin to adjust. A rectangle materializes ahead, it looks almost like a movie theater screen. After about ten minutes the docent of the exhibit allows everyone to stand and walk towards the rectangle. At this point the pitch dark room has become slightly more tractable. People apear as dark silhouettes against an ever-so-slightly not black backdrop. As we approach the grey rectange it remains intangible, it's edges sharpen but the thing itself feels impossible to focus on. Finally, upon reaching the front of the room we discover the rectangle to be not a thing, but an empty space in the far wall, how deep the space or how tall or how wide it is beyond that rectangular window is impossible to gauge. We lean forward, passing a hand, maybe an arm, through that invisible barrier into the space beyond, to affirm that what we fail to see we also fail to touch. We're allowed another moment the take in the view of this distanceless untouchable space before the docent asks us to file out the exit so the next group can come in."
 			},
 			{
 				"body": "Our second treat of the day was an introduction to the works of Ando Tadao. He was the architect commissioned to build most of the museums on the island, and has works throughout Japan. His style makes heavy use of flat cement walls and non-rectangular geometries."
@@ -8254,10 +8402,10 @@ module.exports = [
 				"body": "Day two in Kyoto and we're already taking advantage of our rail passes. Himeji is located about an hour from Kyoto by super-express train, which is covered by our pass so it made for a reasonable day trip."
 			},
 			{
-				"body": "First a bit of history about Himeji itself, a fort of some variety has been located here since the 1300's. The castle itself has burned and been rebuilt many times since then. The castle that stands today was built in 1800's (TODO: get an exact date for this). The castle miraculously survived the bombing of Himeji in WWII. There are some pretty stunning photos of the castle as the only building standing in a city mostly destroyed. And today Himeji stands as one of the largest and most impressive castles in Japan. Riley and I lucked out in our timing, as the castle is fully open to the public and in beautiful condition after a major restoration a couple years ago."
+				"body": "First a bit of history about Himeji itself, a fort of some variety has been located here since the 1300's. The castle itself has burned and been rebuilt many times since then. The castle that stands today was built in the early 1600's. The castle miraculously survived the bombing of Himeji in WWII. There are some pretty stunning photos of the castle as the only building standing in a city mostly destroyed. And today Himeji stands as one of the largest and most impressive castles in Japan. Riley and I lucked out in our timing, as the castle is fully open to the public and in beautiful condition after a major restoration a couple years ago."
 			},
 			{
-				"body": "It was pretty sweltering on the day we visited, but even so walking through the castle grounds was delightful. We learned about the layout of the fortifications designted to give any attacers a circuitous route to reach the castle proper, and about lateral bracing used to make the 7 story structure more earthquake tollerant, and about the taxation policies which allowed the construction of such a huge fortification. And transcending these details was the scale and history of the structure itself. All in all it was a satisfying (if sweaty) day trip out of Kyoto."
+				"body": "It was pretty sweltering on the day we visited, but even so walking through the castle grounds was delightful. We learned about the layout of the fortifications designed to give any attackers a circuitous route to reach the castle proper, and about lateral bracing used to make the 7 story structure more earthquake tolerant, and about the taxation policies which allowed the construction of such a huge fortification. And transcending these details was the scale and history of the structure itself. All in all it was a satisfying (if sweaty) day trip out of Kyoto."
 			},
 			{
 				"subtitle": "Common One Bar",
@@ -8294,7 +8442,7 @@ module.exports = [
 			},
 			{
 				"path": "./images/japan/summit_selfy.JPG",
-				"title": "Summit Selfy!"
+				"title": "Summit Selfie!"
 			}
 		],
 		"content": [
@@ -8308,11 +8456,11 @@ module.exports = [
 			},
 			{
 				"subtitle": "Summit",
-				"body": "The view from the summit was great! We lucked out on weather, spending most of the climb above or between clouds, and from the peak could catch snippets of Kawaguchiko way below. We chilled on the summit for a half hour, got a peek into the caldera, and bought some little souveneers. Also snapped the derpy selfy shown above, it's hard to frame well with the 35mm lense I've got."
+				"body": "The view from the summit was great! We lucked out on weather, spending most of the climb above or between clouds, and from the peak could catch snippets of Kawaguchiko way below. We chilled on the summit for a half hour, got a peek into the caldera, and bought some little souveneers. Also snapped the derpy selfie shown above, it's hard to frame well with the 35mm lense I've got."
 			},
 			{
 				"subtitle": "Descent",
-				"body": "Joyously, the descent was much faster than the climb. It took us about 2 hours to slip and slide back down the gravelly descent switchbacks. After we got down dropped off our rental boots, caught a bus back to Kawaguchiko, picked up our bags then caught a bus to Tokyo, then, finally, took the Shinkansen to Kyoto. After all our transit we finally reached our hostel in Kyoto at 11:30, and, at long last, got some sleep."
+				"body": "Joyously, the descent was much faster than the climb. It took us about 2 hours to slip and slide back down the gravelly descent switchbacks. After we got down dropped off our rental boots, caught a bus back to Kawaguchiko, picked up our bags then caught a bus to Tokyo, then, finally, took the Shinkansen to Kyoto. After all our transit we reached our hostel in Kyoto at 11:30 and, at long last, got some sleep."
 			}
 		]
 	},
@@ -8342,7 +8490,7 @@ module.exports = [
 			{
 				"path": "./images/japan/sushi.JPG",
 				"title": "Sushi",
-				"subtitle": "at the outter Tsukiji fish market"
+				"subtitle": "at the outer Tsukiji fish market"
 			},
 			{
 				"path": "./images/japan/sushi_face.JPG",
