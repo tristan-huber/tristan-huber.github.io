@@ -8150,6 +8150,75 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Taiwan",
+		"date": "August 20 2017 - August 25 2017",
+		"images": [
+			{
+				"path": "./images/taipei/taipei101.JPG",
+				"title": "Taipei",
+				"subtitle": "the view from the top of Taipei 101, formerly the tallest building in the world"
+			},
+			{
+				"path": "./images/taipei/mass_damper.JPG",
+				"title": "Tuned Mass Damper",
+				"subtitle": "the intertial mass damper at the top of Taipei 101, makes the building more tollerant to earthquakes and high winds"
+			},
+			{
+				"path": "./images/taipei/selfie_statue.JPG",
+				"title": "Selfie Statue",
+				"subtitle": "introduced to this statue on our walking tour on the first day in town"
+			},
+			{
+				"path": "./images/taipei/guard_exchange.JPG",
+				"title": "Guard Exchange at Ho Chi Min Memorial"
+			},
+			{
+				"path": "./images/taipei/coral_devil.JPG",
+				"title": "National Museum",
+				"subtitle": "an exhibit of old intricate carving and jewelry, mostly from Chinese mainland"
+			},
+			{
+				"path": "./images/taipei/museum_lantern.JPG",
+				"title": "National Museum"
+			},
+			{
+				"path": "./images/taipei/sushi_noms.JPG",
+				"title": "A Wild Sushi Appears!",
+				"subtitle": "Stopping for snacks after the National Museum"
+			},
+			{
+				"path": "./images/taipei/mini_cooper.JPG",
+				"title": "Art Exhibit in Taipei",
+				"subtitle": "Riley found this while we were bumming around a maker-space/craft market in Taipei"
+			},
+			{
+				"path": "./images/taipei/viveland_riley.JPG",
+				"title": "Viveland",
+				"subtitle": "Viveland is a virtual reality theme park. We rented a room for a half hour and Riley introduced me to TiltBrush, which is part sculpting part 3D painting"
+			},
+			{
+				"path": "./images/taipei/jia_fen_view.JPG",
+				"title": "Jiu Fen",
+				"subtitle": "view from our day trip to Jiu Fen"
+			},
+			{
+				"path": "./images/taipei/jia_fen_street.JPG",
+				"title": "Jiu Fen",
+				"subtitle": "a market street in Jiu Fen"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "Taipei",
+				"body": "Taipei was great! We were staying a bit outside of the center of town, right by the Shinlin night market. During the days we explored a lot of the modern attractions in Taipei. We got to see the top of Taipei 101 and the sweet mass damper there, also Viveland a new virtual reality amusement park, and some contemporary art exhibits. During the evening we wandered through the Shinlin market for dumplings and soup."
+			},
+			{
+				"subtitle": "Jiu Fen",
+				"body": "For our last full day we took a day trip out to Jiu Fen, a small town up on a mountain a couple hours from Taipei. We spent the day snacking and enjoying coffee while looking out over the incredible view along the coast."
+			}
+		]
+	},
+	{
 		"title": "Farewell Japan",
 		"date": "August 19 2017",
 		"images": [
