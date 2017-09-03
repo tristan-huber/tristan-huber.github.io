@@ -8150,6 +8150,102 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Sapa",
+		"date": "August 30 2017 - September 2 2017",
+		"images": [
+			{
+				"path": "./images/vietnam/sapa/couple_photo.JPG"
+			},
+			{
+				"path": "./images/vietnam/sapa/valley_view.JPG",
+				"title": "View from our Hostel",
+				"subtitle": "we were staying 10km from Sapa itself in a small hamlet called Ta Van"
+			},
+			{
+				"path": "./images/vietnam/sapa/riley_hammock.JPG",
+				"title": "A Hammock with a View"
+			},
+			{
+				"path": "./images/vietnam/sapa/trail.JPG",
+				"title": "Hiking through the Valley",
+				"subtitle": "went for a hike on our first morning in Ta Van. Heavy rains the day before made for muddy going"
+			},
+			{
+				"path": "./images/vietnam/sapa/end_of_hike.JPG",
+				"title": "Hiking Riley",
+				"subtitle": "the rain started up again while we were in a bamboo forest on our hike"
+			},
+			{
+				"path": "./images/vietnam/sapa/feet.JPG",
+				"title": "Muddy feet after hiking"
+			},
+			{
+				"path": "./images/vietnam/sapa/mountain_top_tristan.JPG",
+				"title": "Mountain Top",
+				"subtitle": "second day invovled renting a scooter and taking the worlds longest and biggest elevation gain cable car to a mountain top above our valley"
+			},
+			{
+				"path": "./images/vietnam/sapa/scooter.JPG",
+				"title": "Trusty Scooter",
+				"subtitle": "the scooter which, barely, took us up to the cable car"
+			},
+			{
+				"path": "./images/vietnam/sapa/street_shops.JPG",
+				"title": "Lunch Break",
+				"subtitle": "stopping for lunch in Sapa proper after the cable car"
+			},
+			{
+				"path": "./images/vietnam/sapa/golden_hour.JPG",
+				"subtitle": "views on the way home from the cable car"
+			}
+		],
+		"content": [
+			{
+				"body": "Sapa valley was amazingly beautiful, and offered a nice quite break to slow down after so much time in cities lately."
+			}
+		]
+	},
+	{
+		"title": "Hanoi & Ha Long Bay",
+		"date": "August 26 2017 - August 30 2017",
+		"images": [
+			{
+				"path": "./images/vietnam/hanoi_night.JPG",
+				"title": "The Lake in Old Town",
+				"subtitle": "a few blocks from where we were staying"
+			},
+			{
+				"path": "./images/vietnam/hanoi_scooter.JPG",
+				"subtitle": "a hoverboard converted into a scooter! these were all over the place on the weekend"
+			},
+			{
+				"path": "./images/vietnam/ha_long_chicken_rock.JPG",
+				"title": "Ha Long Bay",
+				"subtitle": "one of the famous islands during our tour of Ha Long Bay"
+			},
+			{
+				"path": "./images/vietnam/ha_long_view.JPG",
+				"title": "Ha Long Bay",
+				"subtitle": "more views from the boat tour"
+			},
+			{
+				"path": "./images/vietnam/ha_long_cave.JPG",
+				"title": "Cave in Ha Long Bay",
+				"subtitle": "part of our tour took us on to an island and into this illuminated cave"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "Hanoi",
+				"body": "We were surprisingly spare on photos of Hanoi. We were staying in the Old Town neighborhood, and spent a couple days aclimating to Vietnam, seeing museums, and enjoying the food. Also notable was the Sunday night market where we got some rolled icecream."
+			},
+			{
+				"subtitle": "Ha Long Bay",
+				"body": "During our last full day in Hanoi we booked a tour of Ha Long Bay. We'd heard pretty mixed reviews of Ha Long Bay, while the bay is a natural wonder it's become crouded with tours and tourists. But, going into the tour with that fore-knowledge, we ended up having a pleasant day. We woke early for the bus ride out there, about 3 hours, then 5 hours of boat tour with a couple stops for kayaking and caving, before the return bus ride. The bay was beautiful, and we met some friendly older couples from New Zealand on our boat."
+			}
+		]
+	},
+	{
 		"title": "Taiwan",
 		"date": "August 20 2017 - August 25 2017",
 		"images": [
@@ -8194,7 +8290,12 @@ module.exports = [
 			{
 				"path": "./images/taipei/viveland_riley.JPG",
 				"title": "Viveland",
-				"subtitle": "Viveland is a virtual reality theme park. We rented a room for a half hour and Riley introduced me to TiltBrush, which is part sculpting part 3D painting"
+				"subtitle": "Viveland is a virtual reality theme park. We rented a room for a half hour and Riley introduced me to TiltBrush, which is part virtual sculpting, part 3D painting"
+			},
+			{
+				"path": "./images/taipei/shinlin_market.JPG",
+				"title": "Shinlin Market",
+				"subtitle": "the night market just outside our hostel"
 			},
 			{
 				"path": "./images/taipei/jia_fen_view.JPG",
