@@ -8150,6 +8150,68 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Phong Nha",
+		"date": "",
+		"images": [
+			{
+				"path": "./images/vietnam/phong_nha/river_ride.JPG",
+				"title": "River Ride to Phong Nha Cave",
+				"subtitle": "first day brought a short river ride to the nearest of this regions caves"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/phong_nha_cave_boat.JPG",
+				"subtitle": "Did I say boat to the cave? I meant boat _in_ the cave"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/phong_nha_cave_tristan.JPG",
+				"title": "Hiking in the Cave",
+				"subtitle": "the boat let us off for a little exploring before we left"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/open_road.JPG",
+				"title": "Day Two: Open Road",
+				"subtitle": "we rented a scooter to travel to more caves in the region"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/cave_day_companions.JPG",
+				"title": "Lunch with Friends",
+				"subtitle": "We rode and caved with these folks from our hostel"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/paradise_cave_riley.JPG",
+				"title": "Paradise Cave",
+				"subtitle": "this cave was staggeringly large. The lights over Riley's shoulder trace out the starecase to the enterance/exit. This chamber was but a fraction of the cave overall."
+			},
+			{
+				"path": "./images/vietnam/phong_nha/paradise_cave_return.JPG",
+				"title": "Deeper into Paradise Cave"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/paradise_cave_reflection.JPG",
+				"title": "Reflections"
+			},
+			{
+				"path": "./images/vietnam/phong_nha/paradise_cave_end.JPG",
+				"title": "Final Chamber",
+				"subtitle": "the second-from-right formation shows clear evidence of having tipped over in the past before continuing to grow"
+			}
+		],
+		"content": [
+			{
+				"body": "Phong Nha wasn't on our original itinerary, but we'd heard about it from several people in Sapa and so stopped by for a few days to see what the hype was about. This is an inland region of Vietnam riddled with limestone caves. In fact the world's largest cave was a few days treking from where we were. Unfortunately tours of the worlds largest cave cost $3000 usd and are booked out years in advance, so we had to settle for the amazing Phong Nha Cave, Dark Cave, and Paradise Cave."
+			},
+			{
+				"body": "No photos of the Dark Cave, not because it was dark, but because we had to swim for part of our hike in the cave and Riley and I weren't prepared to risk our cameras there."
+			},
+			{
+				"body": "The secondary highlight of Phong Nha was all the motorbiking. After renting a bike we were able to visit the Dark Cave and paradise Cave in a single day. The night before our big day trip we bumped into Anouk, who we'd first met in Sapa, and met a couple new folks. So, the next morning our band assembled. Riley and i shared a bike, as did Anouk and Julian. Elie, our fifth, hired a bike and driver. This was a boon for us as her driver was also our guide through the backcountry roads. We visited the Dark Cave in the morning, and spent a while playing on the zip lines and diving boards they had set up in the river outside the cave. After this was a short ride to lunch, followed by a hike up to Paradise Cave. The photos above are my best efforts to capture the size and beauty of this cave. I've never seen anything like it before. The space was huge, our boardwalk endlessly dissapearing around yet another bend to reveal yet another cathedral-like room."
+			},
+			{
+				"body": "Ultimately we stayed in Phong Nha a bit too long, after our trip to the two nearby caves we had a couple nights more to stay but no more major caves reachable without an overnight trek. So we were ready for the next stage of our journey when we finally boarded the bus for Hue."
+			}
+		]
+	},
+	{
 		"title": "Sapa",
 		"date": "August 30 2017 - September 2 2017",
 		"images": [
@@ -8201,7 +8263,10 @@ module.exports = [
 		],
 		"content": [
 			{
-				"body": "Sapa valley was amazingly beautiful, and offered a nice quite break to slow down after so much time in cities lately."
+				"body": "Sapa valley was amazingly beautiful, and offered a nice quite break to slow down after so much time in cities lately. We were here for three nights at My Tra Homestay, which was run by a very helpful Australian xpat and his family. He showed us a couple treks we could do nearby, which saved us a bunch of money on guides. The treks were great, if somewhat rainy. And in the afternoon we got to play some pool at an empty nearby bar."
+			},
+			{
+				"body": "On our second day in the valley we rented a scooter for 140k dong (about 6 dollars) and I had my first experince riding a motorbike in Vietnam. There's just one street up from our homestay to Sapa proper, about 7km. The road quality was pretty poor, alternating between cement, pavement, and gravel, with several river fordings as we climbed out of the valley. But, traffic was fairly light and we made it without incident. After reaching Sapa town we went on another 4km to the cable car which reaches all the way up to the top of a nearby mountain. The summit was socked in so no views for us, but the ride up and down in the cablecar was stunning on it's own. After the mountain we had a spectacularly beautiful ride back to our homestay just in time for our last dinner."
 			}
 		]
 	},
