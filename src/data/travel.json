@@ -1,5 +1,23 @@
 [
   {
+    "title": "Nha Trang and Ninhvana",
+    "date": "",
+    "images": [
+      { "path": "./images/vietnam/ninhvana/ocean.JPG", "title": "Ocean view from Ninhvana"},
+      { "path": "./images/vietnam/ninhvana/cats.JPG", "title": "Cats!", "subtitle": "some of the neighborhood cats at the resort"}
+    ],
+    "content": [
+      {
+        "subtitle": "Nha Trang",
+        "body": "Stopped here after Hoi An but the town was a bit of a disapointment. In the past few years it's grown into a small noisy city, with the rapid growth of Russian and Chinese tourism. The town is a beautiful plays to lay on the beach and enjoy fine dining, but this wasn't what we sought. We stayed for a day in order to visit Vinpearl Land, a huge amusement and water park across the bay from Nha Trang. The park took all day and was a delight."
+      },
+      {
+        "subtitle": "Ninhvana",
+        "body": "Rather than linger in Nha Trang we booked a couple nights at a nearby 'backpacker resort', which turned out to be a great rest. The resort was near to a small fishing village about two hours north of Nha Trang. Here we lounged at the resort pool, enjoyed their buffet meals, went hiking in the nearby mountains, watched movies in the outdoor theater at night, and on our last morning went paddle boarding on the ocean."
+      }
+    ]
+  },
+  {
     "title": "Hoi An",
     "date": "",
     "images": [
