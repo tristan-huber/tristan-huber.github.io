@@ -8150,6 +8150,90 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Hoi An",
+		"date": "",
+		"images": [
+			{
+				"path": "./images/vietnam/hoi_an/street.JPG",
+				"title": "Hoi An"
+			},
+			{
+				"path": "./images/vietnam/hoi_an/tristan.JPG",
+				"title": "Travel Bum",
+				"subtitle": "new tank top and a headband"
+			},
+			{
+				"path": "./images/vietnam/hoi_an/street_two.JPG",
+				"title": "Hoi An"
+			}
+		],
+		"content": [
+			{
+				"body": "Hoi An is known for it's tailoring. But, sadly we didn't partake. Both Riley and I were out sick while here, and I developed a mysterios skin infection on one leg. So we limitted ourselves to a cooking class and some easy shopping for our three day stay, plus some antibiotics for me. By happy coincidence we were here at the same time as Anouk, who we'd seen in Sapa briefly, and explored caves with in Phong Nha. We joined her for the cooking class and spent the supsequent evening catching up."
+			}
+		]
+	},
+	{
+		"title": "Hue and the Hai Van Pass",
+		"date": "",
+		"images": [
+			{
+				"path": "./images/vietnam/hue/citadel_flag.JPG",
+				"title": "The Citadel at Hue",
+				"subtitle": "Hue is the town between north and south vietnam, and the ancient capitol"
+			},
+			{
+				"path": "./images/vietnam/hue/citadel.JPG",
+				"title": "Inner Citadel"
+			},
+			{
+				"path": "./images/vietnam/hue/fishes.JPG",
+				"title": "Feeding the Fishes"
+			},
+			{
+				"path": "./images/vietnam/hue/hai_van_tristan.JPG",
+				"title": "Motorbiking to Hoi An",
+				"subtitle": "rented bike in Hue, 150km to Hoi An, including the Hai Van Pass"
+			},
+			{
+				"path": "./images/vietnam/hue/springs_overview.JPG",
+				"title": "Elephant Springs",
+				"subtitle": "first rest stop on our trip to Hoi An"
+			},
+			{
+				"path": "./images/vietnam/hue/springs_riley.JPG",
+				"title": "Elephant Springs",
+				"subtitle": "swimming break!"
+			},
+			{
+				"path": "./images/vietnam/hue/hai_van_toung.JPG",
+				"title": "Hai Van Pass",
+				"subtitle": "top of the pass. background shows the curvy road we took, and the beach where we stopped for lunch"
+			},
+			{
+				"path": "./images/vietnam/hue/hai_van_riley.JPG",
+				"title": "Riley at the Summit",
+				"subtitle": "Ruins of a fort at the top of the pass"
+			}
+		],
+		"content": [
+			{
+				"subtitle": "Hue",
+				"body": "We spent only one night in Hue, but after arriving in the morning we had time to explore the famed Citadel there."
+			},
+			{
+				"subtitle": "Hai Van Pass",
+				"body": "The next morning we rented a motorbike, filled up on gas, and departed Hue at 8:30am. A few hours down the road we detoured to Elephant Springs. We found neither Elephants nor springs there, but there was a beautiful, cool river where we could swim and relax. We later learned that there is an elephant carved into the rock further downstream from where we were, still a mystery why it's called a spring though. After Elephant Springs we rode on about 20 minutes to Long Co where we grabbed lunch at a beach resort."
+			},
+			{
+				"body": "After lunch it was time for Hai Van Pass itself. This was once the only major road connecting North and South Vietnam. But about a decade ago a tunnel was completed, so the pass itself is now used only by motorbikes, tour busses, and the gas trucks which are forbidden from the tunnel. The riding was amazing. Even though we were taking it slow with two people on our little scooter the curves and slopes were delightful. Unlike our ride in Sapa the road here was well paved, making it all the more fun. And the views were delightful, we stopped half a dozen times on our way up and back down."
+			},
+			{
+				"body": "The pass lets out in Danang city, a beachside tourist town, and the largest city in central Vietnam. The riding here was properly stressful. Unlike cities in the states there is no highway that cuts through town, nor any circulator freeways to take around it. Instead we were stuck taking the main beachfront boulevard all the way through the city. This street was thick with intersections, and busy with other bikers, cars, tuk-tuks, and pedestrians. We came into Danang hours before dusk, but a storm had darkened the western horizon bringing an early dimming of the light. So we fled onwards towards Hoi An, stopping only to snap the above photo of the beautiful painted boats in Danang Harbor."
+			}
+		]
+	},
+	{
 		"title": "Phong Nha",
 		"date": "",
 		"images": [
