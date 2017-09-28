@@ -1,7 +1,7 @@
 [
   {
     "title": "Nha Trang and Ninhvana",
-    "date": "",
+    "date": "September 12 2017 - September 15 2017",
     "images": [
       { "path": "./images/vietnam/ninhvana/ocean.JPG", "title": "Ocean view from Ninhvana"},
       { "path": "./images/vietnam/ninhvana/cats.JPG", "title": "Cats!", "subtitle": "some of the neighborhood cats at the resort"}
@@ -19,7 +19,7 @@
   },
   {
     "title": "Hoi An",
-    "date": "",
+    "date": "September 9 2017 - September 12 2017",
     "images": [
       { "path": "./images/vietnam/hoi_an/street.JPG", "title": "Hoi An"},
       { "path": "./images/vietnam/hoi_an/tristan.JPG", "title": "Travel Bum", "subtitle": "new tank top and a headband"},
@@ -33,7 +33,7 @@
   },
   {
     "title": "Hue and the Hai Van Pass",
-    "date": "",
+    "date": "September 8 2017 - September 9 2017",
     "images": [
       { "path": "./images/vietnam/hue/citadel_flag.JPG", "title": "The Citadel at Hue", "subtitle": "Hue is the town between north and south vietnam, and the ancient capitol"},
       { "path": "./images/vietnam/hue/citadel.JPG", "title": "Inner Citadel" },
@@ -63,7 +63,7 @@
   },
   {
     "title": "Phong Nha",
-    "date": "",
+    "date": "September 4 2017 - September 8 2017",
     "images": [
       { "path": "./images/vietnam/phong_nha/river_ride.JPG", "title": "River Ride to Phong Nha Cave", "subtitle": "first day brought a short river ride to the nearest of this regions caves"},
       { "path": "./images/vietnam/phong_nha/phong_nha_cave_boat.JPG", "subtitle": "Did I say boat to the cave? I meant boat _in_ the cave"},

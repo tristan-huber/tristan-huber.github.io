@@ -8151,7 +8151,7 @@ if(false) {
 module.exports = [
 	{
 		"title": "Nha Trang and Ninhvana",
-		"date": "",
+		"date": "September 12 2017 - September 15 2017",
 		"images": [
 			{
 				"path": "./images/vietnam/ninhvana/ocean.JPG",
@@ -8176,7 +8176,7 @@ module.exports = [
 	},
 	{
 		"title": "Hoi An",
-		"date": "",
+		"date": "September 9 2017 - September 12 2017",
 		"images": [
 			{
 				"path": "./images/vietnam/hoi_an/street.JPG",
@@ -8200,7 +8200,7 @@ module.exports = [
 	},
 	{
 		"title": "Hue and the Hai Van Pass",
-		"date": "",
+		"date": "September 8 2017 - September 9 2017",
 		"images": [
 			{
 				"path": "./images/vietnam/hue/citadel_flag.JPG",
@@ -8260,7 +8260,7 @@ module.exports = [
 	},
 	{
 		"title": "Phong Nha",
-		"date": "",
+		"date": "September 4 2017 - September 8 2017",
 		"images": [
 			{
 				"path": "./images/vietnam/phong_nha/river_ride.JPG",
