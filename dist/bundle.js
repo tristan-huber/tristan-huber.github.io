@@ -9367,7 +9367,7 @@ function TravelEntry(props) {
                     " ",
                     props.title,
                     " "))),
-        React.createElement(Bootstrap.Row, { classname: "entryDate" },
+        React.createElement(Bootstrap.Row, { className: "entryDate" },
             React.createElement(Bootstrap.Col, null, props.date)),
         React.createElement(Bootstrap.Row, { className: "content" }, contents)));
 }

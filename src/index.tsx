@@ -57,7 +57,7 @@ function TravelEntry(props: TravelData) {
           </Bootstrap.Col>
         </Bootstrap.Row>
 
-        <Bootstrap.Row classname="entryDate">
+        <Bootstrap.Row className="entryDate">
           <Bootstrap.Col>
           {props.date}
           </Bootstrap.Col>
