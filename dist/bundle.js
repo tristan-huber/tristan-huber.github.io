@@ -8150,6 +8150,41 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "Dalat",
+		"date": "September 17 2017",
+		"images": [
+			{
+				"path": "./images/vietnam/dalat/dalat_view.JPG",
+				"title": "Dalat City",
+				"subtitle": "We spent just two nights in this small mountain town"
+			},
+			{
+				"path": "./images/vietnam/dalat/dalat_glass.JPG",
+				"title": "Cool Building",
+				"subtitle": "Riley found this building while walking around town with Anouk"
+			},
+			{
+				"path": "./images/vietnam/dalat/tour_group.jpg",
+				"title": "Adventure Tour!",
+				"subtitle": "While Riley and Anouk explored the town I went on a canyoning tour nearby"
+			},
+			{
+				"path": "./images/vietnam/dalat/repelling.jpg",
+				"title": "Repelling",
+				"subtitle": "our first repel of the tour, right next to a big waterfall"
+			},
+			{
+				"path": "./images/vietnam/dalat/jump.jpg",
+				"title": "Goofing off in the River"
+			}
+		],
+		"content": [
+			{
+				"body": "We made a last minute change of plans to stop in Dalat, an inland mountain town which is popular for adventure tourism. We spent just two nights here. In the intervining day I signed up for one of the day-time canyoning tours. Riley's foot was feeling a bit off, so she stayed in town and met up with Anouk again! After the canyoning I got to catch up with both of them over dinner."
+			}
+		]
+	},
+	{
 		"title": "Nha Trang and Ninhvana",
 		"date": "September 12 2017 - September 15 2017",
 		"images": [
