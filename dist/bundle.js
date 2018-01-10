@@ -8150,6 +8150,131 @@ if(false) {
 
 module.exports = [
 	{
+		"title": "South Thailand",
+		"date": "October 11 2017 - October 23 2017",
+		"images": [],
+		"content": [
+			{
+				"body": "Coming Soon!"
+			}
+		]
+	},
+	{
+		"title": "North Thailand",
+		"date": "September 28 2017 - October 10 2017",
+		"images": [],
+		"content": [
+			{
+				"body": "Coming Soon!"
+			}
+		]
+	},
+	{
+		"title": "Angkor Wat and Siem Reap",
+		"date": "September 25 2017 - September 27 2017",
+		"images": [
+			{
+				"path": "./images/cambodia/angkor_wat/angkor_view.JPG",
+				"title": "View from atop Angkor Wat"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/angkor_detailing.JPG",
+				"title": "Detailing on Angkor Wat",
+				"subtitle": "as well as being a huge complex, Angkor Wat was incredibly intricately detailed."
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/mural.JPG",
+				"title": "Mural at Angkor Wat",
+				"subtitle": "this photo captures just 1/8 of the extensive murals which trace the outter wall of Angkor Wat, the largest such engraving in the world."
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/riley_moss.JPG",
+				"title": "Ta Prohm",
+				"subtitle": "While Angkor Wat has undergone extensive reconstruction, Ta Prohm is closer to the state it was in when originally discovered by Western explorers."
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/roots.JPG",
+				"title": "Ta Prohm",
+				"subtitle": "Ta Prohm is also famous for being the set of an action sequence in the 'Laura Croft: Tomb Raider' series."
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/riley_alone.JPG",
+				"subtitle": "one of the smaller temples we stopped at"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/stone_faces.JPG",
+				"title": "Bayon Temple",
+				"subtitle": "final stop of the first day"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/womens_temple.JPG",
+				"title": "Banteay Srei",
+				"subtitle": "some of the intricate carvings of Banteay Srei"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/riley_photo.JPG",
+				"title": "Baphoun",
+				"subtitle": "stopping on the long raised promanade to Baphoun"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/helmets.JPG",
+				"title": "Angkor Thom South Gate at Dusk",
+				"subtitle": "last stop on our way home on the second day."
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/dawn.JPG",
+				"title": "Dawn above Angkor Wat"
+			},
+			{
+				"path": "./images/cambodia/angkor_wat/laura_croft.JPG",
+				"title": "Laura Croft Face",
+				"subtitle": "Riley exercising the signature Laura Croft expression as we explore Angkor Wat just after dawn on our first day."
+			}
+		],
+		"content": [
+			{
+				"body": "Lot's of photos for this one! It's hard to imagine a more photogenic place."
+			},
+			{
+				"body": "We had three-ish days of exploration here. Our first day was the grand tour, we hired a tuk-tuk for the day ($15 usd) and saw Ankor Wat, Ta Prohm, and Bayon. Our driver was great and helped us find lunch, plus pointed out some of the highlights of the temples we stopped at. Also, he showed us to a smaller and nearly empty temple in the mid afternoon. This was a refreshing delight after the business of Angkor Wat and Ta Prohm in the morning."
+			},
+			{
+				"body": "For day two we rented a scooter ourselves and took off for the more distant Banteay Srei, a far-off temple which is known for it's intricate detailing in red rock. This was about an hours ride from our hostel in Siem Reap. After a spin around this small but beautiful temple we rode back in towards the Terrace of the Elephants and Baphoun, which we'd missed on yesterday's pass through the main complex. We stayed at the top of Baphoun until they kicked us out just before dusk. This was fine as I wasn't in a hurry to ride the scooter at night anyhow."
+			},
+			{
+				"body": "Our final day in Siem Reap. Today our flight is in the early afternoon, so we woke up before dawn and met our tuk-tuk driver from our first day at 5am. He drove us in to watch dawn happen over Angkor Wat. Unfortunately for us this particular dawn was fairly undramatic. Riley snapped the photo above, which shows a couple red clouds above the Wat's profile and is by far the best photo we got that morning. But such is life, exploring the Wat just after dawn was rewarding in it's own right."
+			},
+			{
+				"body": "After our dawn tour of Angkor wat our driver took us back to our hostel, where we grabbed breakfast and our bags, then it was off to the airport, bound for Chiang Mai in North Thailand."
+			}
+		]
+	},
+	{
+		"title": "Phnom Penh",
+		"date": "September 22 2017 - September 24 2017",
+		"images": [],
+		"content": [
+			{
+				"body": "Coming Soon!"
+			}
+		]
+	},
+	{
+		"title": "Ho Chi Minh City",
+		"date": "September 18 2017 - September 21 2017",
+		"images": [
+			{
+				"path": "./images/vietnam/ho_chi_minh/river_view.JPG",
+				"title": "Siagon River in Ho Chi Minh City"
+			}
+		],
+		"content": [
+			{
+				"body": "When we arrived in Ho Chi Minh City we wheren't sure how long we'd spend, and we ended up cutting our time short. We stayed at a pleasant little hotel, and found some great food nearby. But despite that, we quickly discovered that walking around in this city is super stressful. In Hanoi in the north there were lots of scooters in the roads. And I like to think we've become a bit used to that by now. But, in Ho Chi Minh the scooters freely wander on to the sidewalks as well, and this, plus the already chaotic traffic has made our exploration of the city more nerve-wracking than we'd like. So, we took two days to explore the city. The photo above is from one of the high-rises which we ended up calling 'Stark Tower', I forget it's actual name, but it has a heli-pad halfway up which mimicks the look of the building from the Avengers movie (or vice-versa, I'm not sure which came first)."
+			}
+		]
+	},
+	{
 		"title": "Dalat",
 		"date": "September 17 2017",
 		"images": [
